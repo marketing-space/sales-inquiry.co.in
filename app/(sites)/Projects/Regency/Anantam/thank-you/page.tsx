@@ -70,7 +70,7 @@ export default function ThankYouPage() {
   // Add redirect effect
   useEffect(() => {
     const redirectTimer = setTimeout(() => {
-      router.push(`/${site}/#home`);
+      router.push(`/Projects/Regency/Anantam/#home`);
     }, countdown * 1000);
 
     // Cleanup timer
@@ -146,7 +146,7 @@ export default function ThankYouPage() {
         >
           <Button
             className="gap-2 group relative overflow-hidden"
-            onClick={() => router.push(`${site}/#home`)}
+            onClick={() => router.push(`/Projects/Regency/Anantam/#home`)}
           >
             <motion.div
               className="absolute inset-0 bg-primary/10"
