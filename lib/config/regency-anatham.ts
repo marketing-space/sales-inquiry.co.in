@@ -385,7 +385,7 @@ export const lodhaAmaraSiteConfig = {
       description: "Schedule at your convenience",
     },
     image: {
-      src: "/anantham/images/banner-1.webp",
+      src: "/anantham/images/banner-1.png",
       alt: "Virtual Tour",
     },
     videoTitle: "Virtual Tour",
