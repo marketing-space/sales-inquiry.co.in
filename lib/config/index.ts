@@ -1,22 +1,10 @@
-import { lodhaAmaraSiteConfig } from "@/lib/config/lodha-amara";
+import { lodhaAmaraSiteConfig } from "../config/regency-anatham";
 import { routes } from "./routes";
-import { siteConfig } from "./site";
-import { lodhaPremierSiteConfig } from "./lodha-premier";
-import { lodhaCrownThaneSiteConfig } from "./lodha-crown-thane";
-import { lodhaHangingGardensSiteConfig } from "./lodha-hanging-gardens";
-import { lodhaPokhranSiteConfig } from "./lodha-pokhran";
-import { lodhaRegaliaSiteConfig } from "./lodha-regalia";
-import { lodhaUpperThaneSiteConfig } from "./lodha-upper-thane";
+// import { siteConfig } from "./site";
 
 const configs = {
-  [routes.default]: siteConfig,
-  [routes.LodhaAmara]: lodhaAmaraSiteConfig,
-  [routes.LodhaPremier]: lodhaPremierSiteConfig,
-  [routes.LodhaCrownThane]: lodhaCrownThaneSiteConfig,
-  [routes.LodhaHangingGardens]: lodhaHangingGardensSiteConfig,
-  [routes.LodhaPokhran]: lodhaPokhranSiteConfig,
-  [routes.LodhaRegalia]: lodhaRegaliaSiteConfig,
-  [routes.LodhaUpperThane]: lodhaUpperThaneSiteConfig,
+  [routes.default]: lodhaAmaraSiteConfig,
+  [routes.Anantam]: lodhaAmaraSiteConfig,
 };
 
 export function getSiteConfig(site?: string) {

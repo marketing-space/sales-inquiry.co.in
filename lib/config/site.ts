@@ -71,7 +71,7 @@ export const siteConfig = {
 
   branding: {
     logo: "/default/images/logo.svg",
-    favicon: "/default/icon.png",
+    favicon: "/anantham/images/favicon.png",
     ogImage: "/default/og-image.jpg",
   },
 
