@@ -64,7 +64,7 @@ export const lodhaAmaraSiteConfig = {
     ],
     cta: {
       title: "Download Brochure",
-      description: "Download the brochure to learn more about Lodha Amara",
+      description: "Download the brochure to learn more about Regency Anantam",
     },
   },
 
@@ -78,22 +78,22 @@ export const lodhaAmaraSiteConfig = {
     banners: [
       {
         src: "/anantham/images/banner-1.png",
-        alt: "Lodha Amara Exterior",
+        alt: "Regency Anantam Exterior",
       },
       {
         src: "/anantham/images/banner-2.png",
-        alt: "Lodha Amara Exterior",
+        alt: "Regency Anantam Exterior",
       },
     ],
     welcome: {
       cta: {
         title: "Download Brochure",
-        description: "Download the brochure to learn more about Lodha Amara.",
+        description: "Download the brochure to learn more about Regency Anantam.",
       },
       title: "Welcome To Regency Anantam",
-      description: `Nestled in the lush environs of Kolshet road, Lodha Amara stands as a premium residential destination in Thane, coveted by discerning homebuyers. Expanding across 40 acres, Amara unfolds in three distinct phases, with the inaugural phase nearing its fulfillment. Presenting an array of 1 to 3 BHK configurations, each meticulously crafted floor plan maximizes space utility and elevates resident convenience. Complementing contemporary lifestyles, the project features tailored amenities including dedicated clubhouses for every zone, an invigorating swimming pool, and more. For those in pursuit of a meticulously planned development by a trusted developer in a prime locale, Amara emerges as the quintessential choice.
+      description: `Experience a refreshing lifestyle at Regency Anantam, a stunning residential address in Dombivli. This property boasts lavish 1 and 2 BHK apartments complete with sundecks, perfect for savoring a cup of chai while soaking in beautiful views. The sprawling complex includes a magnificent 3-level clubhouse, a sports garden, themed parks, and more, offering a truly leisure-filled lifestyle. Additionally, it features a temple, community hall, and business centre within its premises.
         
-      Live in a home with optimal space planning. Presenting thoughtfully designed Air Conditioned^ homes at Amara with superior design to ensure more privacy. With spacious residences in the lush locale of Thane, Lodha Amara bridges the gap between city and nature and gives you a life replete with both!`,
+      The vibrant locale of Dombivli East offers a remarkable array of schools, malls, and hospitals, all within easy reach. Nearby landmarks include NES International School, K V Pendharkar College, Aims Hospital, Dombivli Railway Station, Kalyan-Shil Road, and the upcoming Kalyan-Taloja Metro Line. Regency Anantam combines spacious residences with an enviable location, ensuring that your desires are met, and your dreams are spectacularly fulfilled!`,
     },
     offer: {
       title: "Booking Open",
@@ -235,63 +235,63 @@ export const lodhaAmaraSiteConfig = {
     },
     amenities: [
       {
-        title: "Badminton Court",
-        image: "/anantham/images/amenities/BADMINTONCOURT.webp",
+        title: "Banquet Hall",
+        image: "/anantham/images/amenities/banquethall.webp",
         description: "",
       },
       {
-        title: "Cricket Pitch",
-        image: "/anantham/images/amenities/CRICKETPITCH.webp",
+        title: "Basketball Court",
+        image: "/anantham/images/amenities/basketballcourt.webp",
         description: "",
       },
       {
-        title: "Ganesha Temple",
-        image: "/anantham/images/amenities/GANESHATEMPLE.webp",
+        title: "Clube House",
+        image: "/anantham/images/amenities/clubhouse.webp",
         description: "",
       },
       {
-        title: "Grand Clubhouse",
-        image: "/anantham/images/amenities/GRANDCLUBHOUSE.webp",
+        title: "Fitness Zone",
+        image: "/anantham/images/amenities/fitnesszone.webp",
         description: "",
       },
       {
-        title: "Kids Play Area",
-        image: "/anantham/images/amenities/KIDSPLAYAREA.webp",
+        title: "Games Room",
+        image: "/anantham/images/amenities/gamesroom.webp",
         description: "",
       },
       {
         title: "Gym",
-        image: "/anantham/images/amenities/GYM.webp",
+        image: "/anantham/images/amenities/gym.webp",
         description: "",
       },
       {
-        title: "Indoor Pool",
-        image: "/anantham/images/amenities/INDOORPOOL.webp",
+        title: "Jogging Track",
+        image: "/anantham/images/amenities/joggingtrack.webp",
         description: "",
       },
       {
-        title: "Multiple Party Hall",
-        image: "/lodha-amara/images/amenities/MULTIPLEPARTYHALL.webp",
+        title: "Leisure Garden",
+        image: "/anantham/images/amenities/leisuregarden.webp",
         description: "",
       },
       {
-        title: "Pool Side Cafe",
-        image: "/anantham/images/amenities/POOLSIDECAFE.webp",
+        title: "Massage Room",
+        image: "/anantham/images/amenities/massageroom.webp",
         description: "",
       },
       {
-        title: "Pool Side Deck",
-        image: "/anantham/images/amenities/POOLSIDEDECK.webp",
+        title: "Mini Theatre",
+        image: "/anantham/images/amenities/minitheatre.webp",
         description: "",
       },
       {
-        title: "Private Theatre",
-        image: "/anantham/images/amenities/PRIVATETHEATRE.webp",
+        title: "Senior Citizen Corner",
+        image: "/anantham/images/amenities/seniorcitizencorner.webp",
         description: "",
       },
       {
-        title: "Private Woods",
-        image: "/anantham/images/amenities/PRIVATEWOODS.webp",
+        title: "Swimming Pool",
+        image: "/anantham/images/amenities/swimmingpool.webp",
         description: "",
       },
     ],
