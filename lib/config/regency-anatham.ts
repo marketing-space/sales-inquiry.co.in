@@ -261,7 +261,7 @@ export const lodhaAmaraSiteConfig = {
       },
       {
         title: "Gym",
-        image: "/anantham/images/amenities/gym.webp",
+        image: "/anantham/images/amenities/Gymnasium.png",
         description: "",
       },
       {
