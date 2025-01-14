@@ -245,7 +245,7 @@ export const lodhaAmaraSiteConfig = {
         description: "",
       },
       {
-        title: "Clube House",
+        title: "Club House",
         image: "/anantham/images/amenities/clubhouse.webp",
         description: "",
       },
@@ -261,7 +261,7 @@ export const lodhaAmaraSiteConfig = {
       },
       {
         title: "Gym",
-        image: "/anantham/images/amenities/gym.webp",
+        image: "/anantham/images/amenities/Gym.webp",
         description: "",
       },
       {
@@ -599,7 +599,7 @@ export const lodhaAmaraSiteConfig = {
     email: {
       apiEndpoint: "/api/send-email",
       template: {
-        subject: "New Enquiry from Lodha Amara",
+        subject: "New Enquiry from Regency Anatham",
       },
     },
   },
