@@ -21,7 +21,7 @@ export const lodhaAmaraSiteConfig = {
     phone: "+919619095795",
     whatsapp: "+919619095795",
     address:
-      "Kolshet Rd, Kolshet Industrial Area, Thane West, Thane, Maharashtra 400607",
+      "Dombivli E",
   },
   gtmId: "GTM-MBXH4FXP",
   navbar: {
@@ -97,7 +97,7 @@ export const lodhaAmaraSiteConfig = {
     },
     offer: {
       title: "Booking Open",
-      location: "At Thane by Lodha Group",
+      location: "At Dombivli by Regency Group",
       points: [
         { text: "Pay 5% Now & Rest On OC" },
         { text: "Assured Gold Coin On Booking" },
@@ -296,7 +296,7 @@ export const lodhaAmaraSiteConfig = {
       },
     ],
     stats: {
-      title: "32+ World-Class Amenities",
+      title: "40+ World-Class Amenities",
       description: "Everything you need for a luxurious lifestyle",
     },
   },
