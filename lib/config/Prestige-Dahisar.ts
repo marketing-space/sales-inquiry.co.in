@@ -70,7 +70,7 @@ export const prestigeDahisarSiteConfig = {
 
   branding: {
     logo: "/prestige-dahisar/images/logo.svg",
-    favicon: "/prestige-dahisar/images/icon.png",
+    favicon: "/prestige-dahisar/images/icon.jpg",
     ogImage: "/prestige-dahisar/images/og-image.jpg",
   },
 
