@@ -16,7 +16,7 @@ const route = routes.ArkadeBhandup;
 export const arkadeBhandupSiteConfig = {
   name: "Arkade Rare",
   about:
-    "Established in 1996, Rustomjee Group is one of the leading real estate developers in India. The firm specialises in building properties that are luxurious, innovative in design, & use sustainable technologies. It has built fine residential townships, sleek commercial spaces, top healthcare institutions, & reputed schools in the country.",
+    "Arkade Group is a trusted real estate developer in Mumbai, renowned for creating premium lifestyle spaces. With over three decades of experience, the group has delivered 25+ landmark projects across the city’s prime suburbs, providing thoughtfully designed homes to more than 4,000 families.",
   contact: {
     phone: "+919619095795",
     whatsapp: "+919619095795",
