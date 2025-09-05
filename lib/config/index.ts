@@ -1,5 +1,6 @@
 import { lodhaAmaraSiteConfig } from "../config/regency-anatham";
 import { arkadeBhandupSiteConfig } from "./arkade-bhandup";
+import { prestigeDahisarSiteConfig } from "./Prestige-Dahisar";
 import { routes } from "./routes";
 import { rustomjeeDombivliConfig } from "./rustomjee-dombivli";
 // import { siteConfig } from "./site";
@@ -9,6 +10,7 @@ const configs = {
   [routes.Anantam]: lodhaAmaraSiteConfig,
   [routes.RustomjeeDombivli]: rustomjeeDombivliConfig,
   [routes.ArkadeBhandup]: arkadeBhandupSiteConfig,
+  [routes.PrestigeDahisar]: prestigeDahisarSiteConfig,
 };
 
 export function getSiteConfig(site?: string) {

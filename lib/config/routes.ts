@@ -3,4 +3,5 @@ export const routes = {
   Anantam: "Projects/Regency/Anantam",
   RustomjeeDombivli: "Rustomjee-Dombivli",
   ArkadeBhandup: "Arkade-Bhandup",
+  PrestigeDahisar: "Prestige-Dahisar",
 };
