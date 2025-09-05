@@ -146,7 +146,7 @@ export const prestigeDahisarSiteConfig = {
         price: "1.81-2.09 Cr",
         suffix: "Onwards",
       },
-      
+
     ],
     cta: {
       title: "Price Breakup",
@@ -238,7 +238,7 @@ export const prestigeDahisarSiteConfig = {
         image: "/prestige-dahisar/images/amenities/gym.webp",
         description: "",
       },
-            {
+      {
         title: "Swimming Pool",
         image: "/prestige-dahisar/images/amenities/swimmingpool_1.webp",
         description: "",
@@ -440,14 +440,14 @@ export const prestigeDahisarSiteConfig = {
           "Government RERA Authorised Advertiser's: Marketing Space Pvt Ltd, Registration No A51700000595, CIN U74999MH2016PTC288144",
       },
       {
-        title: "RERA Numbers",
-        description:
-          "",
-      },
-      {
         title: "Site Address",
         description:
           "Prestige Dahisar:  Prestige Dahisar-Mira Road: Suhasini Pawaskar Rd, Narendra Complex, Vaishali Nagar, Dahisar East, Mumbai, Maharashtra 400068.",
+      },
+      {
+        title: "Contact Us",
+        description:
+          "Contact Us: Corporate Office: Prestige Group: Prestige Falcon Towers, 19, Brunton Road, Bengaluru, Karnataka - 560025.",
       },
     ],
     disclaimer:

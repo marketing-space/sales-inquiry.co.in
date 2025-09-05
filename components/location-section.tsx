@@ -21,26 +21,29 @@ export default function LocationSection() {
     >
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mt-8">
         {/* Map View */}
-        <div className="space-y-6">
-          <h3 className="text-xl font-bold text-gray-900">Map View</h3>
-          <div className="relative aspect-[4/3] sm:aspect-[16/9] rounded-lg overflow-hidden shadow-lg">
-            <iframe
-              src={map.googleMapIframe}
-              width="600"
-              height="450"
-              allowFullScreen
-              loading="lazy"
-              referrerPolicy="no-referrer-when-downgrade"
-            ></iframe>
-            <Button
-              className="absolute bottom-4 right-4 bg-white text-gray-900 hover:bg-gray-100"
-              onClick={() => window.open(map.googleMapIframe, "_blank")}
-            >
-              <Navigation className="mr-2 h-4 w-4" />
-              Get Directions
-            </Button>
+        {map.googleMapIframe && (
+          <div className="space-y-6">
+            <h3 className="text-xl font-bold text-gray-900">Map View</h3>
+
+            <div className="relative aspect-[4/3] sm:aspect-[16/9] rounded-lg overflow-hidden shadow-lg">
+              <iframe
+                src={map.googleMapIframe}
+                width="600"
+                height="450"
+                allowFullScreen
+                loading="lazy"
+                referrerPolicy="no-referrer-when-downgrade"
+              ></iframe>
+              <Button
+                className="absolute bottom-4 right-4 bg-white text-gray-900 hover:bg-gray-100"
+                onClick={() => window.open(map.googleMapIframe, "_blank")}
+              >
+                <Navigation className="mr-2 h-4 w-4" />
+                Get Directions
+              </Button>
+            </div>
           </div>
-        </div>
+        )}
 
         {/* Location Map */}
         <div className="space-y-6">
