@@ -11,19 +11,19 @@ import {
 } from "lucide-react";
 import { routes } from "./routes";
 
-const route = routes.PrestigeDahisar;
+const route = routes.SiddhaWadala;
 
-export const prestigeDahisarSiteConfig = {
-  name: "Prestige Dahisar Mira Road",
+export const siddhaWadalaSiteConfig = {
+  name: "Siddha Sky Wadala",
   about:
-    "Founded in 1986, Prestige Group began its real estate journey in South India and has since grown into one of the country’s leading developers. Over the decades, the company has delivered premium residential villas, integrated townships, upscale shopping malls, and state-of-the-art commercial parks across major cities including Bengaluru, Chennai, Kochi, and Hyderabad. Expanding its footprint beyond the South, Prestige Group has also ventured into Mumbai, with landmark developments in prime locations such as Mulund, Bandra, and Mahalaxmi.",
+    "Sejal Realty was founded with a clear vision to enhance India’s infrastructure through a strong focus on social redevelopment and SRA initiatives. Dedicated to preserving Mumbai’s architectural and natural heritage, the Group strives to nurture, safeguard, and maintain the city’s legacy. Guided by the foresight of its Chairman, Managing Director, and a team of committed professionals, Sejal Realty continues to pursue new milestones with its core values of Excellence, Innovation, and Passion, building trust at every step.",
   contact: {
     phone: "+919619095795",
     whatsapp: "+919619095795",
     address:
-      " Mira Road, Mumbai",
+      "Sion",
   },
-  gtmId: "GTM-54RP9RX",
+  gtmId: "GTM-WX7SFDVF",
   navbar: {
     navItems: [
       {
@@ -64,42 +64,49 @@ export const prestigeDahisarSiteConfig = {
     ],
     cta: {
       title: "Download Brochure",
-      description: "Download the brochure to learn more about Prestige Dahisar",
+      description:
+        "Download the brochure to learn more about Siddha Wadala",
     },
   },
 
   branding: {
-    logo: "/prestige-dahisar/images/logo.svg",
-    favicon: "/prestige-dahisar/images/icon.jpg",
-    ogImage: "/prestige-dahisar/images/og-image.jpg",
+    logo: "/siddha-wadala/images/logo.webp",
+    favicon: "/icon.jpg",
+    ogImage: "/og-image.jpg",
   },
 
   hero: {
     banners: [
       {
-        src: "/prestige-dahisar/images/banner-1.webp",
-        alt: "Prestige Dahisar Exterior",
+        src: "/siddha-wadala/images/banner-1.webp",
+        alt: "Siddha Wadala Interior",
       },
       {
-        src: "/prestige-dahisar/images/banner-2.webp",
-        alt: "Prestige Dahisar Exterior",
+        src: "/siddha-wadala/images/banner-2.webp",
+        alt: "Siddha Wadala Interior",
       },
     ],
     welcome: {
       cta: {
         title: "Download Brochure",
-        description: "Download the brochure to learn more about Prestige Dahisar.",
+        description:
+          "Download the brochure to learn more about Siddha Wadala.",
       },
-      title: "Welcome To Prestige Dahisar-Mira Road",
-      description: `Prestige Dahisar–Mira Road is a thoughtfully designed gated community that redefines modern living at Mira Road. The elegant high-rise towers feature spacious 1, 2, and 3 BHK residences with a variety of carpet areas to suit different lifestyle needs. Each home is crafted with expansive layouts, premium fittings, and sleek finishes, offering a perfect blend of comfort and sophistication. Residents can enjoy breathtaking city views that elevate the living experience. The community also boasts a wide array of lifestyle amenities, including a gymnasium, swimming pool, multipurpose court, banquet hall, amphitheatre, indoor games, and dedicated kids’ play area, ensuring a vibrant and fulfilling lifestyle.`,
+      title: "Welcome to Siddha Wadala",
+      description: `Welcome to Siddha Sky – The Altaire Collection
+Rising 400 feet above the city, the iconic rooftop skywalk redefines luxury living. With over 25 world-class rooftop amenities, you can indulge in infinity living anytime you desire. Sip your favorite drink at the exclusive Sky Bar while soaking in breathtaking views of the metropolis, and feel truly privileged every single day.
+
+Step into thoughtfully designed 2 & 3 BHK residences that combine elegance with comfort, creating a timeless masterpiece you’ll be proud to call home. Wadala, now emerging as a prime hub of growth and investment, offers unmatched connectivity to major infrastructure projects and leading business districts.
+
+Live beyond the ordinary—discover Siddha Sky, where life meets luxury in the sky.`,
     },
     offer: {
-      title: "Booking Open",
-      location: "New Project by Prestige Group",
+      title: "Booking Open: Limited Time Only",
+      location: "At Wadala By Siddha Group",
       points: [
-        { text: "EOI Started Worth ₹ 1 Lakh" },
-        { text: "Get Launch Offers and EOI Benefits" },
-        { text: "Avail Flexible Payment Plan" },
+        { text: "Exciting Offers On Spot Booking" },
+        { text: "Get 25:75 Subvention" },
+        { text: "Go infinite 400 FT. Above Sea Level" },
       ],
       cta: {
         title: "Book A Free Site Visit",
@@ -108,17 +115,21 @@ export const prestigeDahisarSiteConfig = {
       features: [
         {
           title: "Land Parcel",
-          value: "5 Acres",
+          value: "6.5 Acres",
         },
         {
           title: "Floors",
-          value: "G + 30 Storeys",
+          value: "29 Floors",
+        },
+        {
+          title: "Possession",
+          value: "Dec 2025",
         },
       ],
       price: {
-        title: "Luxurious 1, 2 & 3 BHK Starts from",
-        value: "95 Lacs",
-        suffix: "All In Price*",
+        title: "Luxurious 2 & 3 BHK Skywalk Residence",
+        value: "1.80 Cr*",
+        suffix: "Onwards",
       },
     },
   },
@@ -126,27 +137,27 @@ export const prestigeDahisarSiteConfig = {
   pricing: {
     title: "Pricing Plans",
     description:
-      "Choose from our range of luxurious 1,2 & 3 BHK residences, each designed to offer the perfect blend of comfort and sophistication",
+      "Choose from our range of luxurious 2 & 3 BHK residences, each designed to offer the perfect blend of comfort and sophistication",
     prices: [
       {
-        type: "1 BHK",
-        carpetArea: "450 Sq.ft.",
-        price: "95 Lacs",
+        type: "2 BHK with Balcony",
+        carpetArea: "717 Sq.ft.",
+        price: "1.95 Cr",
         suffix: "Onwards",
       },
       {
-        type: "2 BHK",
-        carpetArea: "618-750 Sq.ft.",
-        price: "1.59 Cr",
+        type: "2 BHK with Balcony",
+        carpetArea: "737 Sq.ft.",
+        price: "2.01 Cr",
         suffix: "Onwards",
       },
       {
         type: "3 BHK",
-        carpetArea: "860-950 Sq.ft.",
-        price: "1.81-2.09 Cr",
+        carpetArea: "916 Sq.ft.",
+        price: "2.50 Cr",
         suffix: "Onwards",
       },
-
+      
     ],
     cta: {
       title: "Price Breakup",
@@ -154,8 +165,8 @@ export const prestigeDahisarSiteConfig = {
     },
     detailPricing: {
       image: {
-        src: "/prestige-dahisar/images/costing.webp",
-        alt: "Prestige Dahisar Costing",
+        src: "/siddha-wadala/images/costing.webp",
+        alt: "Siddha Wadala Costing",
       },
       title: "Need Complete Costing Details?",
       description:
@@ -174,37 +185,37 @@ export const prestigeDahisarSiteConfig = {
     masterPlan: {
       title: "Master Plan",
       image: {
-        src: "/prestige-dahisar/images/masterplan.webp",
+        src: "/siddha-wadala/images/masterplan.jpg",
         alt: "Master Plan",
       },
       cta: {
         title: "View Master Plan",
-        description: "Explore the layout of Prestige Dahisar",
+        description: "Explore the layout of Siddha Wadala",
       },
     },
     floorPlans: {
-      categories: ["All", "1 BHK", "2 BHK", "3 BHK"],
+      categories: ["All", "2 BHK", "3 BHK"],
       title: "Floor Plans",
       plans: [
         {
-          type: "1 BHK-450 Sq.ft.",
-          image: "/prestige-dahisar/images/coming-soon.jpg",
-          category: "1 BHK",
-        },
-        {
-          type: "2 BHK-618-750 Sq.ft.",
-          image: "/prestige-dahisar/images/coming-soon.jpg",
+          type: "2 BHK-717 Sq.ft.",
+          image: "/siddha-wadala/images/floor-1.jpg",
           category: "2 BHK",
         },
         {
-          type: "3 BHK-860-950 Sq.ft.",
-          image: "/prestige-dahisar/images/coming-soon.jpg",
+          type: "2 BHK-737 Sq.ft.",
+          image: "/siddha-wadala/images/floor-1.jpg",
+          category: "2 BHK",
+        },
+        {
+          type: "3 BHK-916 Sq.ft.",
+          image: "/siddha-wadala/images/floor-2.jpg",
           category: "3 BHK",
         },
       ],
       cta: {
         title: "Enquire Now",
-        description: "Explore the layout of Prestige Dahisar",
+        description: "Explore the layout of Siddha Wadala",
       },
     },
   },
@@ -215,72 +226,72 @@ export const prestigeDahisarSiteConfig = {
       "Discover a lifestyle enriched with premium amenities and facilities",
     cta: {
       title: "Download Amenities",
-      description: "Download the amenities of Prestige Dahisar",
+      description: "Download the amenities of Siddha Wadala",
     },
     amenities: [
       {
-        title: "Jogging Track",
-        image: "/prestige-dahisar/images/amenities/joggingpath_1.webp",
+        title: "Sky Jog With Nature",
+        image: "/siddha-wadala/images/amenities/joggingpath_1.webp",
+        description: "",
+      },
+      {
+        title: "Informal Lawn Seating",
+        image: "/siddha-wadala/images/amenities/casual-seating.png",
+        description: "",
+      },
+      {
+        title: "Art Corner",
+        image: "/siddha-wadala/images/amenities/ArtRoom.jpg ",
+        description: "",
+      },
+      {
+        title: "Covered Lounge Seating",
+        image: "/siddha-wadala/images/amenities/coverseating.png",
+        description: "",
+      },
+      {
+        title: "Yoga Lawn with Stage",
+        image: "/siddha-wadala/images/amenities/yogazone_1.webp",
+        description: "",
+      },
+      {
+        title: "Seating Under Tree",
+        image: "/siddha-wadala/images/amenities/seatingundertree.png",
+        description: "",
+      },
+      {
+        title: "Party Lawn with Amphitheatre",
+        image: "/siddha-wadala/images/amenities/amphitheatre.webp",
+        description: "",
+      },
+      {
+        title: "BBQ with Dining Area",
+        image: "/siddha-wadala/images/amenities/bbq.jpg",
+        description: "",
+      },
+      {
+        title: "Hammock Sitting",
+        image: "/siddha-wadala/images/amenities/hammock.png",
+        description: "",
+      },
+      {
+        title: "Pergola Seating",
+        image: "/siddha-wadala/images/amenities/pergola.jpg",
+        description: "",
+      },
+      {
+        title: "Work/Study Pods with Wi-Fi",
+        image: "/siddha-wadala/images/amenities/studypod.png",
         description: "",
       },
       {
         title: "Senior Citizen Area",
-        image: "/prestige-dahisar/images/amenities/seniorcitizencorner11.webp",
-        description: "",
-      },
-      {
-        title: "Amphitheatre",
-        image: "/prestige-dahisar/images/amenities/amphitheatre_1.webp",
-        description: "",
-      },
-      {
-        title: "Gym",
-        image: "/prestige-dahisar/images/amenities/gym.webp",
-        description: "",
-      },
-      {
-        title: "Swimming Pool",
-        image: "/prestige-dahisar/images/amenities/swimmingpool_1.webp",
-        description: "",
-      },
-      {
-        title: "Multipurpose Court",
-        image: "/prestige-dahisar/images/amenities/multipurposecourt1.webp",
-        description: "",
-      },
-      {
-        title: "Kids Play Area",
-        image: "/prestige-dahisar/images/amenities/kidsplayarea.webp",
-        description: "",
-      },
-      {
-        title: "Indoor Games",
-        image: "/prestige-dahisar/images/amenities/indogame_01.webp",
-        description: "",
-      },
-      {
-        title: "Landscape Garden",
-        image: "/prestige-dahisar/images/amenities/landscapedgreens.webp",
-        description: "",
-      },
-      {
-        title: "Banquet Hall",
-        image: "/prestige-dahisar/images/amenities/BanquetHall.webp",
-        description: "",
-      },
-      {
-        title: "Walking Path",
-        image: "/prestige-dahisar/images/amenities/walking_01.webp",
-        description: "",
-      },
-      {
-        title: "Yoga Space",
-        image: "/prestige-dahisar/images/amenities/YOGAAEROBICSUMBAROOM11.webp",
+        image: "/siddha-wadala/images/amenities/seniorcitizencorner11.webp",
         description: "",
       },
     ],
     stats: {
-      title: "40+ World-Class Amenities",
+      title: "32+ World-Class Amenities",
       description: "Everything you need for a luxurious lifestyle",
     },
   },
@@ -291,28 +302,23 @@ export const prestigeDahisarSiteConfig = {
       "Experience luxury living through our carefully curated spaces",
     cta: {
       title: "Download Gallery",
-      description: "Download the gallery of Prestige Dahisar",
+      description: "Download the gallery of Siddha Wadala",
     },
     images: [
       {
         title: "",
-        image: "/prestige-dahisar/images/gallery/1.webp",
-        description: "",
+        image: "/siddha-wadala/images/gallery/g4.webp",
+        description: "Elegantly designed living spaces with premium finishes",
       },
       {
         title: "",
-        image: "/prestige-dahisar/images/gallery/2.webp",
-        description: "",
+        image: "/siddha-wadala/images/gallery/g5.webp",
+        description: "Breathtaking views of landscaped gardens",
       },
       {
         title: "",
-        image: "/prestige-dahisar/images/gallery/3.webp",
-        description: "",
-      },
-      {
-        title: "",
-        image: "/prestige-dahisar/images/gallery/4.webp",
-        description: "",
+        image: "/siddha-wadala/images/gallery/g6.webp",
+        description: "Resort-style pool with premium amenities",
       },
     ],
   },
@@ -321,25 +327,32 @@ export const prestigeDahisarSiteConfig = {
     title: "Location",
     description: "Strategically located for your convenience",
     googleMapIframe:
-      "",
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2872.9147962479365!2d72.8675830752044!3d19.036394282160032!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7cfaf78bb0ba7%3A0x40bc1d125e65498a!2sSiddha%20Sky%2C%20Wadala!5e1!3m2!1sen!2sin!4v1757073735043!5m2!1sen!2sin",
     image: {
-      src: "/prestige-dahisar/images/locationmap.webp",
+      src: "/siddha-wadala/images/locationmap.jpg",
       alt: "Location Map",
     },
     landmarks: [
       {
-        title: "Western Express Highway",
-        description: "2 mins",
+        title: " Wadala station",
+        description: "15 mins",
       },
       {
-        title: "Dahisar (East) Metro Station",
+        title: " Monorail Station ",
+        description: "1 Min",
+      },
+      {
+        title: "Auxilium Convent High School",
+        description: "10 Mins",
+      },
+      {
+        title: " Chinmay Nursing Home ",
         description: "5 Mins",
       },
       {
-        title: "Chhatrapati Shivaji Maharaj International Airport",
-        description: "35 Mins",
+        title: " Eastern Express Highway",
+        description: "5 Mins",
       },
-
     ],
     location: {
       title: "Location Details",
@@ -352,17 +365,19 @@ export const prestigeDahisarSiteConfig = {
 
   virtualTour: {
     title: "Virtual Tour Request",
-    description: "Experience Prestige Dahisar from the comfort of your home",
+    description:
+      "Experience Siddha Wadala from the comfort of your home",
     cta: {
       title: "Request Virtual Tour",
       description: "Schedule at your convenience",
     },
     image: {
-      src: "/prestige-dahisar/images/banner-1.webp",
+      src: "/siddha-wadala/images/banner-1.webp",
       alt: "Virtual Tour",
     },
     videoTitle: "Virtual Tour",
-    videoDescription: "Experience Prestige Dahisar from the comfort of your home",
+    videoDescription:
+      "Experience Siddha Wadala from the comfort of your home",
     features: [
       {
         title: "360° Views",
@@ -379,11 +394,17 @@ export const prestigeDahisarSiteConfig = {
     ],
   },
 
+  footer: {
+    termsConditions: { href: `/${route}/terms-conditions` },
+    privacyPolicy: { href: `/${route}/privacy-policy` },
+    cookiesPolicy: { href: `/${route}/cookies-policy` },
+  },
+
   enquire: {
     title: "Get The Best Quote",
     bookFreeVisit: {
       image: {
-        src: "/prestige-dahisar/images/ride.png",
+        src: "/siddha-wadala/images/ride.png",
         alt: "Book a Site Visit",
       },
       cta: {
@@ -419,12 +440,13 @@ export const prestigeDahisarSiteConfig = {
   legal: {
     rera: {
       title: "RERA Information",
-      description: "",
+      description:
+        "According to the RERA Act 2016 of the Government of India, all projects of the Siddha Wadala, are listed on the Maharashtra Government's RERA website under registered projects.",
       details: [
         {
-          title: "",
-          reraNumber: "",
-          qrCode: "/prestige-dahisar/images/rera.jpg",
+          title: "Siddha Wadala",
+          reraNumber: "MahaRERA - P51900021031",
+          qrCode: "/siddha-wadala/images/qr.webp",
         },
       ],
     },
@@ -440,14 +462,19 @@ export const prestigeDahisarSiteConfig = {
           "Government RERA Authorised Advertiser's: Marketing Space Pvt Ltd, Registration No A51700000595, CIN U74999MH2016PTC288144",
       },
       {
+        title: "RERA Numbers",
+        description:
+          "RERA Project Registration No.:P51900021031",
+      },
+      {
         title: "Site Address",
         description:
-          "Prestige Dahisar:  Prestige Dahisar-Mira Road: Suhasini Pawaskar Rd, Narendra Complex, Vaishali Nagar, Dahisar East, Mumbai, Maharashtra 400068.",
+          "Siddha Wadala:GTB Nagar Monorail Station, Indira Nagar, Koliwada, Sion, Mumbai, Maharashtra 400037",
       },
       {
         title: "Contact Us",
         description:
-          "Contact Us: Corporate Office: Prestige Group: Prestige Falcon Towers, 19, Brunton Road, Bengaluru, Karnataka - 560025.",
+          "Contact Us : 7|B66, Kedarnath Temple Rd,Nehru Nagar, Kurla East , Mumbai 400024",
       },
     ],
     disclaimer:
@@ -456,15 +483,20 @@ export const prestigeDahisarSiteConfig = {
 
   seo: {
     title:
-      "Prestige Dahisar by Prestige Group | Price, Floor Plans, Amenities | Request Brochure",
+      "Siddha Wadala 2 & 3 BHK Flats in Bhandup | Price, Floor Plans, Amenities | Request Brochure",
     description:
-      "Experience luxury living at Prestige Dahisar. 1, 2 & 3 BHK apartments with world-class amenities.",
-    keywords: ["Prestige Dahisar", "1 bhk", "2 bhk", "3 bhk"],
+      "Experience luxury living at Siddha Wadala, Bhandup. 2 & 3 BHK apartments with world-class amenities.",
+    keywords: [
+      "luxury apartments",
+      "Siddha Wadala",
+      "2 bhk",
+      "3 bhk",
+    ],
   },
 
   termsAndConditions: {
     seo: {
-      title: "Terms & Conditions | Prestige Dahisar",
+      title: "Siddha Wadala | Terms & Conditions",
       description:
         "Please read these terms and conditions carefully before using our website.",
     },
@@ -490,15 +522,9 @@ export const prestigeDahisarSiteConfig = {
     ],
   },
 
-  footer: {
-    termsConditions: { href: `/${route}/terms-conditions` },
-    privacyPolicy: { href: `/${route}/privacy-policy` },
-    cookiesPolicy: { href: `/${route}/cookies-policy` },
-  },
-
   privacyPolicy: {
     seo: {
-      title: "Privacy Policy | Prestige Dahisar",
+      title: "Siddha Wadala | Privacy Policy",
       description: "This policy explains how we use your personal information.",
     },
     title: "Privacy Policy",
@@ -519,7 +545,7 @@ export const prestigeDahisarSiteConfig = {
 
   cookiesPolicy: {
     seo: {
-      title: "Cookies Policy | Prestige Dahisar",
+      title: "Siddha Wadala | Cookies Policy",
       description:
         "This policy explains how we use cookies and similar technologies on our website.",
     },
@@ -542,30 +568,30 @@ export const prestigeDahisarSiteConfig = {
 
   thankYou: {
     seo: {
-      title: "Prestige Dahisar | Thank You",
-      description: "Thank you for your interest in Prestige Dahisar",
+      title: "Siddha Wadala | Thank You",
+      description: "Thank you for your interest in Siddha Wadala",
     },
   },
 
   formSubmission: {
     crm: {
-      formId: "__vtigerWebForm_56",
-      publicId: "0459cebb30e8fd3c582b7a2cc593237d",
+      formId: "__vtigerWebForm_150",
+      publicId: "7410c2cc688acba102277306204ca291",
       baseUrl: "https://company133638.od2.vtiger.com",
-      __vtrftk: "sid:d0b203e8fb8ff53c5b3673fb24119e03ae930517,1680088576",
+      __vtrftk: "sid:1b3cdc7b40504e947d6886a08517ac877e7e3224,1678943220",
       __vtCurrency: "1",
-      name: "Prestige Dahisar",
-      cfLeadsProjectSite: "Swaminarayan City",
+      name: "Arkade Bhandup",
+      cfLeadsProjectSite: "Dosti Eden",
       leadSource: "Web",
       emailOptin: "1",
     },
     email: {
       apiEndpoint: "/api/send-email",
       template: {
-        subject: "New Enquiry from Prestige Dahisar",
+        subject: "New Enquiry from Siddha Wadala",
       },
     },
   },
 };
 
-export type PrestigeDahisarConfig = typeof prestigeDahisarSiteConfig;
+export type SiddhaWadalaSiteConfig = typeof siddhaWadalaSiteConfig;

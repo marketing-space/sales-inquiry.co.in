@@ -4,4 +4,5 @@ export const routes = {
   RustomjeeDombivli: "Rustomjee-Dombivli",
   ArkadeBhandup: "Arkade-Bhandup",
   PrestigeDahisar: "Prestige-Dahisar",
+  SiddhaWadala: "Siddha-Wadala",
 };
