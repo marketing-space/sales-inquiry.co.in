@@ -95,7 +95,7 @@ export const prestigeDahisarSiteConfig = {
     },
     offer: {
       title: "Booking Open",
-      location: "At Mira Road, Mumbai by Prestige Group",
+      location: "New Project by Prestige Group",
       points: [
         { text: "EOI Started Worth ₹ 1 Lakh" },
         { text: "Get Launch Offers and EOI Benefits" },

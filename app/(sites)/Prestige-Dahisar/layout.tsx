@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: getSiteConfig(route).seo.description,
 };
 
-export default function LodhaAmaraLayout({
+export default function PrestigeDahisarLayout({
   children,
 }: {
   children: React.ReactNode;
