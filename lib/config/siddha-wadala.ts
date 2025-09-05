@@ -483,9 +483,9 @@ Live beyond the ordinary—discover Siddha Sky, where life meets luxury in the s
 
   seo: {
     title:
-      "Siddha Wadala 2 & 3 BHK Flats in Bhandup | Price, Floor Plans, Amenities | Request Brochure",
+      "Siddha Wadala 2 & 3 BHK Flats in Sion| Price, Floor Plans, Amenities | Request Brochure",
     description:
-      "Experience luxury living at Siddha Wadala, Bhandup. 2 & 3 BHK apartments with world-class amenities.",
+      "Experience luxury living at Siddha Wadala,Sion. 2 & 3 BHK apartments with world-class amenities.",
     keywords: [
       "luxury apartments",
       "Siddha Wadala",
