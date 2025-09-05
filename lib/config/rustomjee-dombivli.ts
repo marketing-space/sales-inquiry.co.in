@@ -14,7 +14,7 @@ import { routes } from "./routes";
 const route = routes.RustomjeeDombivli;
 
 export const rustomjeeDombivliConfig = {
-  name: "Rustomjee Urban Woods",
+  name: "Rustomjee Urban rustomjee-dombivli",
   about:
     "Established in 1996, Rustomjee Group is one of the leading real estate developers in India. The firm specialises in building properties that are luxurious, innovative in design, & use sustainable technologies. It has built fine residential townships, sleek commercial spaces, top healthcare institutions, & reputed schools in the country.",
   contact: {
@@ -65,12 +65,12 @@ export const rustomjeeDombivliConfig = {
     cta: {
       title: "Download Brochure",
       description:
-        "Download the brochure to learn more about Rustomjee Urban Woods",
+        "Download the brochure to learn more about Rustomjee Urban rustomjee-dombivli",
     },
   },
 
   branding: {
-    logo: "/woods/images/logo.svg",
+    logo: "/rustomjee-dombivli/images/logo.svg",
     favicon: "/icon.png",
     ogImage: "/og-image.jpg",
   },
@@ -78,26 +78,26 @@ export const rustomjeeDombivliConfig = {
   hero: {
     banners: [
       {
-        src: "/woods/images/deskban1.webp",
-        alt: "Rustomjee Urban Woods Interior",
+        src: "/rustomjee-dombivli/images/deskban1.webp",
+        alt: "Rustomjee Urban rustomjee-dombivli Interior",
       },
       {
-        src: "/woods/images/deskban2.webp",
-        alt: "Rustomjee Urban Woods Interior",
+        src: "/rustomjee-dombivli/images/deskban2.webp",
+        alt: "Rustomjee Urban rustomjee-dombivli Interior",
       },
     ],
     welcome: {
       cta: {
         title: "Download Brochure",
         description:
-          "Download the brochure to learn more about Rustomjee Urban Woods.",
+          "Download the brochure to learn more about Rustomjee Urban rustomjee-dombivli.",
       },
-      title: "Welcome to  Rustomjee Urban Woods",
-      description: `Rustomjee Urban Woods redefines city living with a perfect blend of sophistication, sustainability, and community spirit. Nestled amidst lush greenery, these exquisitely crafted homes come with private decks, creating a peaceful retreat from the city’s vibrant pace.
+      title: "Welcome to  Rustomjee Urban rustomjee-dombivli",
+      description: `Rustomjee Urban rustomjee-dombivli redefines city living with a perfect blend of sophistication, sustainability, and community spirit. Nestled amidst lush greenery, these exquisitely crafted homes come with private decks, creating a peaceful retreat from the city’s vibrant pace.
 
 Every space is thoughtfully planned to cater to all generations—offering dedicated zones for children, serene corners for senior citizens, and versatile areas for family gatherings. Located in a prime, well-connected neighborhood, the community ensures seamless access to key landmarks, business hubs, and everyday essentials.
 
-With innovative architecture and eco-friendly features, Rustomjee Urban Woods delivers a lifestyle that is both modern and mindful, fostering a warm sense of belonging while elevating the way you live.
+With innovative architecture and eco-friendly features, Rustomjee Urban rustomjee-dombivli delivers a lifestyle that is both modern and mindful, fostering a warm sense of belonging while elevating the way you live.
 
 `,
     },
@@ -165,8 +165,8 @@ With innovative architecture and eco-friendly features, Rustomjee Urban Woods de
     },
     detailPricing: {
       image: {
-        src: "/woods/images/costing.webp",
-        alt: "Rustomjee Urban Woods Costing",
+        src: "/rustomjee-dombivli/images/costing.webp",
+        alt: "Rustomjee Urban rustomjee-dombivli Costing",
       },
       title: "Need Complete Costing Details?",
       description:
@@ -185,12 +185,12 @@ With innovative architecture and eco-friendly features, Rustomjee Urban Woods de
     masterPlan: {
       title: "Master Plan",
       image: {
-        src: "/woods/images/masterplan.jpg",
+        src: "/rustomjee-dombivli/images/masterplan.jpg",
         alt: "Master Plan",
       },
       cta: {
         title: "View Master Plan",
-        description: "Explore the layout of Rustomjee Urban Woods",
+        description: "Explore the layout of Rustomjee Urban rustomjee-dombivli",
       },
     },
     floorPlans: {
@@ -199,23 +199,23 @@ With innovative architecture and eco-friendly features, Rustomjee Urban Woods de
       plans: [
         {
           type: "1 BHK-485-505 Sq.ft.",
-          image: "/woods/images/floor1.jpg",
+          image: "/rustomjee-dombivli/images/floor1.jpg",
           category: "1 BHK",
         },
         {
           type: "2 BHK-585-677 Sq.ft.",
-          image: "/woods/images/floor1.jpg",
+          image: "/rustomjee-dombivli/images/floor1.jpg",
           category: "2 BHK",
         },
         {
           type: "3 BHK-870-963 Sq.ft.",
-          image: "/woods/images/floor1.jpg",
+          image: "/rustomjee-dombivli/images/floor1.jpg",
           category: "3 BHK",
         },
       ],
       cta: {
         title: "Enquire Now",
-        description: "Explore the layout of Rustomjee Urban Woods",
+        description: "Explore the layout of Rustomjee Urban rustomjee-dombivli",
       },
     },
   },
@@ -226,37 +226,37 @@ With innovative architecture and eco-friendly features, Rustomjee Urban Woods de
       "Discover a lifestyle enriched with premium amenities and facilities",
     cta: {
       title: "Download Amenities",
-      description: "Download the amenities of Rustomjee Urban Woods",
+      description: "Download the amenities of Rustomjee Urban rustomjee-dombivli",
     },
     amenities: [
       {
         title: "Party Hall",
-        image: "/woods/images/amenities/partyhall1.webp",
+        image: "/rustomjee-dombivli/images/amenities/partyhall1.webp",
         description: "",
       },
       {
         title: "Swimming Pool",
-        image: "/woods/images/amenities/swimmingpools1.webp",
+        image: "/rustomjee-dombivli/images/amenities/swimmingpools1.webp",
         description: "",
       },
       {
         title: "Play Ground",
-        image: "/woods/images/amenities/garden_01.webp",
+        image: "/rustomjee-dombivli/images/amenities/garden_01.webp",
         description: "",
       },
       {
         title: "Library",
-        image: "/woods/images/amenities/library_01.webp",
+        image: "/rustomjee-dombivli/images/amenities/library_01.webp",
         description: "",
       },
       {
         title: "Walking Track",
-        image: "/woods/images/amenities/walking_01.webp",
+        image: "/rustomjee-dombivli/images/amenities/walking_01.webp",
         description: "",
       },
       {
         title: "Billiards Table",
-        image: "/woods/images/amenities/indogame_01.webp",
+        image: "/rustomjee-dombivli/images/amenities/indogame_01.webp",
         description: "",
       },
     ],
@@ -272,27 +272,27 @@ With innovative architecture and eco-friendly features, Rustomjee Urban Woods de
       "Experience luxury living through our carefully curated spaces",
     cta: {
       title: "Download Gallery",
-      description: "Download the gallery of Rustomjee Urban Woods",
+      description: "Download the gallery of Rustomjee Urban rustomjee-dombivli",
     },
     images: [
       {
         title: "",
-        image: "/woods/images/gallery/1.jpg",
+        image: "/rustomjee-dombivli/images/gallery/1.jpg",
         description: "Elegantly designed living spaces with premium finishes",
       },
       {
         title: "",
-        image: "/woods/images/gallery/2.jpg",
+        image: "/rustomjee-dombivli/images/gallery/2.jpg",
         description: "Breathtaking views of landscaped gardens",
       },
       {
         title: "",
-        image: "/woods/images/gallery/3.jpg",
+        image: "/rustomjee-dombivli/images/gallery/3.jpg",
         description: "Resort-style pool with premium amenities",
       },
       {
         title: "",
-        image: "/woods/images/gallery/4.jpg",
+        image: "/rustomjee-dombivli/images/gallery/4.jpg",
         description: "Spacious bedrooms with modern aesthetics",
       },
     ],
@@ -302,9 +302,9 @@ With innovative architecture and eco-friendly features, Rustomjee Urban Woods de
     title: "Location",
     description: "Strategically located for your convenience",
     googleMapIframe:
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2870.0822900205712!2d73.12719097520848!3d19.19944278203067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be79579ef1f7c77%3A0xb10fd44bce9221c1!2sUrban%20Woods%20by%20Rustomjee%20Dombivli%20Sales%20Office!5e1!3m2!1sen!2sin!4v1755244525723!5m2!1sen!2sin",
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2870.0822900205712!2d73.12719097520848!3d19.19944278203067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be79579ef1f7c77%3A0xb10fd44bce9221c1!2sUrban%20rustomjee-dombivli%20by%20Rustomjee%20Dombivli%20Sales%20Office!5e1!3m2!1sen!2sin!4v1755244525723!5m2!1sen!2sin",
     image: {
-      src: "/woods/images/map.webp",
+      src: "/rustomjee-dombivli/images/map.webp",
       alt: "Location Map",
     },
     landmarks: [
@@ -341,18 +341,18 @@ With innovative architecture and eco-friendly features, Rustomjee Urban Woods de
   virtualTour: {
     title: "Virtual Tour Request",
     description:
-      "Experience Rustomjee Urban Woods from the comfort of your home",
+      "Experience Rustomjee Urban rustomjee-dombivli from the comfort of your home",
     cta: {
       title: "Request Virtual Tour",
       description: "Schedule at your convenience",
     },
     image: {
-      src: "/woods/images/deskban1.webp",
+      src: "/rustomjee-dombivli/images/deskban1.webp",
       alt: "Virtual Tour",
     },
     videoTitle: "Virtual Tour",
     videoDescription:
-      "Experience Rustomjee Urban Woods from the comfort of your home",
+      "Experience Rustomjee Urban rustomjee-dombivli from the comfort of your home",
     features: [
       {
         title: "360° Views",
@@ -379,7 +379,7 @@ With innovative architecture and eco-friendly features, Rustomjee Urban Woods de
     title: "Get The Best Quote",
     bookFreeVisit: {
       image: {
-        src: "/woods/images/ride.png",
+        src: "/rustomjee-dombivli/images/ride.png",
         alt: "Book a Site Visit",
       },
       cta: {
@@ -416,12 +416,12 @@ With innovative architecture and eco-friendly features, Rustomjee Urban Woods de
     rera: {
       title: "RERA Information",
       description:
-        "Rustomjee Urban Woods has been registered via MahaRERA registration number: P51700054892 and is available on the website https://maharera.mahaonline.gov.in/ under registered projects.",
+        "Rustomjee Urban rustomjee-dombivli has been registered via MahaRERA registration number: P51700054892 and is available on the website https://maharera.mahaonline.gov.in/ under registered projects.",
       details: [
         {
-          title: "Rustomjee Urban Woods",
+          title: "Rustomjee Urban rustomjee-dombivli",
           reraNumber: "MahaRERA - P51700054892",
-          qrCode: "/woods/images/qr.jpg",
+          qrCode: "/rustomjee-dombivli/images/qr.jpg",
         },
       ],
     },
@@ -444,7 +444,7 @@ With innovative architecture and eco-friendly features, Rustomjee Urban Woods de
       {
         title: "Site Address",
         description:
-          "Rustomjee Urban Woods: Opp, Malang Gad Rd, Kalyan East, Dhokali, Kalyan, Maharashtra 421306",
+          "Rustomjee Urban rustomjee-dombivli: Opp, Malang Gad Rd, Kalyan East, Dhokali, Kalyan, Maharashtra 421306",
       },
     ],
     disclaimer:
@@ -453,12 +453,12 @@ With innovative architecture and eco-friendly features, Rustomjee Urban Woods de
 
   seo: {
     title:
-      "Rustomjee Urban Woods 1,2 & 3 BHK Flats in Dombivli | Price, Floor Plans, Amenities | Request Brochure",
+      "Rustomjee Urban rustomjee-dombivli 1,2 & 3 BHK Flats in Dombivli | Price, Floor Plans, Amenities | Request Brochure",
     description:
-      "Experience luxury living at Rustomjee Urban Woods, Thane. 2 & 3 BHK apartments with world-class amenities.",
+      "Experience luxury living at Rustomjee Urban rustomjee-dombivli, Thane. 2 & 3 BHK apartments with world-class amenities.",
     keywords: [
       "luxury apartments",
-      "Rustomjee Urban Woods",
+      "Rustomjee Urban rustomjee-dombivli",
       "1 BHK",
       "2 bhk",
       "3 bhk",
@@ -467,7 +467,7 @@ With innovative architecture and eco-friendly features, Rustomjee Urban Woods de
 
   termsAndConditions: {
     seo: {
-      title: "Rustomjee Urban Woods | Terms & Conditions",
+      title: "Rustomjee Urban rustomjee-dombivli | Terms & Conditions",
       description:
         "Please read these terms and conditions carefully before using our website.",
     },
@@ -495,7 +495,7 @@ With innovative architecture and eco-friendly features, Rustomjee Urban Woods de
 
   privacyPolicy: {
     seo: {
-      title: "Rustomjee Urban Woods | Privacy Policy",
+      title: "Rustomjee Urban rustomjee-dombivli | Privacy Policy",
       description: "This policy explains how we use your personal information.",
     },
     title: "Privacy Policy",
@@ -516,7 +516,7 @@ With innovative architecture and eco-friendly features, Rustomjee Urban Woods de
 
   cookiesPolicy: {
     seo: {
-      title: "Rustomjee Urban Woods | Cookies Policy",
+      title: "Rustomjee Urban rustomjee-dombivli | Cookies Policy",
       description:
         "This policy explains how we use cookies and similar technologies on our website.",
     },
@@ -539,8 +539,8 @@ With innovative architecture and eco-friendly features, Rustomjee Urban Woods de
 
   thankYou: {
     seo: {
-      title: "Rustomjee Urban Woods | Thank You",
-      description: "Thank you for your interest in Rustomjee Urban Woods",
+      title: "Rustomjee Urban rustomjee-dombivli | Thank You",
+      description: "Thank you for your interest in Rustomjee Urban rustomjee-dombivli",
     },
   },
 
@@ -559,7 +559,7 @@ With innovative architecture and eco-friendly features, Rustomjee Urban Woods de
     email: {
       apiEndpoint: "/api/send-email",
       template: {
-        subject: "New Enquiry from Rustomjee Urban Woods",
+        subject: "New Enquiry from Rustomjee Urban rustomjee-dombivli",
       },
     },
   },

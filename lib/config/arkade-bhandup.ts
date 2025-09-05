@@ -11,9 +11,9 @@ import {
 } from "lucide-react";
 import { routes } from "./routes";
 
-const route = routes.ArkadeRare;
+const route = routes.ArkadeBhandup;
 
-export const arkadeRareSiteConfig = {
+export const arkadeBhandupSiteConfig = {
   name: "Arkade Rare",
   about:
     "Established in 1996, Rustomjee Group is one of the leading real estate developers in India. The firm specialises in building properties that are luxurious, innovative in design, & use sustainable technologies. It has built fine residential townships, sleek commercial spaces, top healthcare institutions, & reputed schools in the country.",
@@ -23,7 +23,7 @@ export const arkadeRareSiteConfig = {
     address:
       "Bhandup (W)",
   },
-  gtmId: "GTM-WXQJ8RMQ",
+  gtmId: "GTM-WX7SFDVF",
   navbar: {
     navItems: [
       {
@@ -70,7 +70,7 @@ export const arkadeRareSiteConfig = {
   },
 
   branding: {
-    logo: "/arkade-rare/images/logo.svg",
+    logo: "/arkade-bhandup/images/logo.svg",
     favicon: "/icon.png",
     ogImage: "/og-image.jpg",
   },
@@ -78,11 +78,11 @@ export const arkadeRareSiteConfig = {
   hero: {
     banners: [
       {
-        src: "/arkade-rare/images/deskban1.webp",
+        src: "/arkade-bhandup/images/deskban1.webp",
         alt: "Arkade Rare Interior",
       },
       {
-        src: "/arkade-rare/images/deskban2.webp",
+        src: "/arkade-bhandup/images/deskban2.webp",
         alt: "Arkade Rare Interior",
       },
     ],
@@ -183,7 +183,7 @@ export const arkadeRareSiteConfig = {
     },
     detailPricing: {
       image: {
-        src: "/arkade-rare/images/costing.webp",
+        src: "/arkade-bhandup/images/costing.webp",
         alt: "Arkade Rare Costing",
       },
       title: "Need Complete Costing Details?",
@@ -203,7 +203,7 @@ export const arkadeRareSiteConfig = {
     masterPlan: {
       title: "Master Plan",
       image: {
-        src: "/arkade-rare/images/masterplan.webp",
+        src: "/arkade-bhandup/images/masterplan.webp",
         alt: "Master Plan",
       },
       cta: {
@@ -217,17 +217,17 @@ export const arkadeRareSiteConfig = {
       plans: [
         {
           type: "2 BHK-524 Sq.ft.",
-          image: "/arkade-rare/images/floor.jpg",
+          image: "/arkade-bhandup/images/floor.jpg",
           category: "2 BHK",
         },
         {
           type: "2 BHK-734 Sq.ft.",
-          image: "/arkade-rare/images/floor.jpg",
+          image: "/arkade-bhandup/images/floor.jpg",
           category: "2 BHK",
         },
         {
           type: "3 BHK-806 Sq.ft.",
-          image: "/arkade-rare/images/floor.jpg",
+          image: "/arkade-bhandup/images/floor.jpg",
           category: "3 BHK",
         },
       ],
@@ -249,62 +249,62 @@ export const arkadeRareSiteConfig = {
     amenities: [
       {
         title: "Lap Pool",
-        image: "/arkade-rare/images/amenities/lappool.webp",
+        image: "/arkade-bhandup/images/amenities/lappool.webp",
         description: "",
       },
       {
         title: "Indoor Badminton Court",
-        image: "/arkade-rare/images/amenities/indoorbadmintoncourt.webp",
+        image: "/arkade-bhandup/images/amenities/indoorbadmintoncourt.webp",
         description: "",
       },
       {
         title: "Putting Golf",
-        image: "/arkade-rare/images/amenities/golf.webp",
+        image: "/arkade-bhandup/images/amenities/golf.webp",
         description: "",
       },
       {
         title: "Hydro Gym",
-        image: "/arkade-rare/images/amenities/hydro.webp",
+        image: "/arkade-bhandup/images/amenities/hydro.webp",
         description: "",
       },
       {
         title: "Children SandPit",
-        image: "/arkade-rare/images/amenities/childrenssandpit.webp",
+        image: "/arkade-bhandup/images/amenities/childrenssandpit.webp",
         description: "",
       },
       {
         title: "Sky Observatory Deck",
-        image: "/arkade-rare/images/amenities/observatory.webp",
+        image: "/arkade-bhandup/images/amenities/observatory.webp",
         description: "",
       },
       {
         title: "Green Pods",
-        image: "/arkade-rare/images/amenities/greenpods.webp",
+        image: "/arkade-bhandup/images/amenities/greenpods.webp",
         description: "",
       },
       {
         title: "Hydro Gym",
-        image: "/arkade-rare/images/amenities/hydro.webp",
+        image: "/arkade-bhandup/images/amenities/hydro.webp",
         description: "",
       },
       {
         title: "Sky Cineplex",
-        image: "/arkade-rare/images/amenities/cineplex.webp",
+        image: "/arkade-bhandup/images/amenities/cineplex.webp",
         description: "",
       },
       {
         title: "Landscaped Gardens",
-        image: "/arkade-rare/images/amenities/garden.webp",
+        image: "/arkade-bhandup/images/amenities/garden.webp",
         description: "",
       },
       {
         title: "Indoor Games",
-        image: "/arkade-rare/images/amenities/indoorgames.webp",
+        image: "/arkade-bhandup/images/amenities/indoorgames.webp",
         description: "",
       },
       {
         title: "Senior Citizen Area",
-        image: "/arkade-rare/images/amenities/seniorcitizencorner11.webp",
+        image: "/arkade-bhandup/images/amenities/seniorcitizencorner11.webp",
         description: "",
       },
     ],
@@ -325,22 +325,22 @@ export const arkadeRareSiteConfig = {
     images: [
       {
         title: "",
-        image: "/arkade-rare/images/gallery/1.webp",
+        image: "/arkade-bhandup/images/gallery/1.webp",
         description: "Elegantly designed living spaces with premium finishes",
       },
       {
         title: "",
-        image: "/arkade-rare/images/gallery/2.webp",
+        image: "/arkade-bhandup/images/gallery/2.webp",
         description: "Breathtaking views of landscaped gardens",
       },
       {
         title: "",
-        image: "/arkade-rare/images/gallery/3.webp",
+        image: "/arkade-bhandup/images/gallery/3.webp",
         description: "Resort-style pool with premium amenities",
       },
       {
         title: "",
-        image: "/arkade-rare/images/gallery/4.webp",
+        image: "/arkade-bhandup/images/gallery/4.webp",
         description: "Spacious bedrooms with modern aesthetics",
       },
     ],
@@ -352,7 +352,7 @@ export const arkadeRareSiteConfig = {
     googleMapIframe:
       "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2871.0314662048527!2d72.92970177373851!3d19.1449539498071!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b946988fb5e7%3A0x9575a57709ec048f!2sArkade%20Rare!5e1!3m2!1sen!2sin!4v1755413315974!5m2!1sen!2sin",
     image: {
-      src: "/arkade-rare/images/locationmap.webp",
+      src: "/arkade-bhandup/images/locationmap.webp",
       alt: "Location Map",
     },
     landmarks: [
@@ -387,7 +387,7 @@ export const arkadeRareSiteConfig = {
       description: "Schedule at your convenience",
     },
     image: {
-      src: "/arkade-rare/images/deskban1.webp",
+      src: "/arkade-bhandup/images/deskban1.webp",
       alt: "Virtual Tour",
     },
     videoTitle: "Virtual Tour",
@@ -419,7 +419,7 @@ export const arkadeRareSiteConfig = {
     title: "Get The Best Quote",
     bookFreeVisit: {
       image: {
-        src: "/arkade-rare/images/ride.png",
+        src: "/arkade-bhandup/images/ride.png",
         alt: "Book a Site Visit",
       },
       cta: {
@@ -461,7 +461,7 @@ export const arkadeRareSiteConfig = {
         {
           title: "Arkade Rare",
           reraNumber: "MahaRERA - P51800077307",
-          qrCode: "/arkade-rare/images/qr.webp",
+          qrCode: "/arkade-bhandup/images/qr.webp",
         },
       ],
     },
@@ -590,12 +590,12 @@ export const arkadeRareSiteConfig = {
 
   formSubmission: {
     crm: {
-      formId: "__vtigerWebForm_84",
-      publicId: "99a7a03a734355a1146e26d2b5dda083",
+      formId: "__vtigerWebForm_150",
+      publicId: "7410c2cc688acba102277306204ca291",
       baseUrl: "https://company133638.od2.vtiger.com",
       __vtrftk: "sid:1b3cdc7b40504e947d6886a08517ac877e7e3224,1678943220",
       __vtCurrency: "1",
-      name: "Arkade Rare",
+      name: "Arkade Bhandup",
       cfLeadsProjectSite: "Dosti Eden",
       leadSource: "Web",
       emailOptin: "1",
@@ -609,4 +609,4 @@ export const arkadeRareSiteConfig = {
   },
 };
 
-export type ArkadeRareSiteConfig = typeof arkadeRareSiteConfig;
+export type ArkadeBhandupSiteConfig = typeof arkadeBhandupSiteConfig;

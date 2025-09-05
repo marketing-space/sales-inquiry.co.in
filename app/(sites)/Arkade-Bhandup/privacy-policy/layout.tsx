@@ -2,14 +2,14 @@ import { getSiteConfig } from "@/lib/config";
 import { routes } from "@/lib/config/routes";
 import { Metadata } from "next";
 
-const route = routes.ArkadeRare;
+const route = routes.ArkadeBhandup;
 
 export const metadata: Metadata = {
-  title: getSiteConfig(route).cookiesPolicy.seo.title,
-  description: getSiteConfig(route).cookiesPolicy.seo.description,
+  title: getSiteConfig(route).privacyPolicy.seo.title,
+  description: getSiteConfig(route).privacyPolicy.seo.description,
 };
 
-export default function CookiesPolicyLayout({
+export default function PrivacyPolicyLayout({
   children,
 }: {
   children: React.ReactNode;
