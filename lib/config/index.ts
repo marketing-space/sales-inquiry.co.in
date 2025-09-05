@@ -1,4 +1,5 @@
 import { lodhaAmaraSiteConfig } from "../config/regency-anatham";
+import { arkadeRareSiteConfig } from "./arkade-rare";
 import { routes } from "./routes";
 import { rustomjeeDombivliConfig } from "./rustomjee-dombivli";
 // import { siteConfig } from "./site";
@@ -6,7 +7,8 @@ import { rustomjeeDombivliConfig } from "./rustomjee-dombivli";
 const configs = {
   [routes.default]: lodhaAmaraSiteConfig,
   [routes.Anantam]: lodhaAmaraSiteConfig,
-  [routes.RustomjeeDombivli]: rustomjeeDombivliConfig
+  [routes.RustomjeeDombivli]: rustomjeeDombivliConfig,
+  [routes.ArkadeRare]: arkadeRareSiteConfig,
 };
 
 export function getSiteConfig(site?: string) {
