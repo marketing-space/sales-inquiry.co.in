@@ -442,12 +442,12 @@ export const prestigeDahisarSiteConfig = {
       {
         title: "RERA Numbers",
         description:
-          "RERA Project Registration No.: P51700020164 / P51700020128 / P51700018579 / P51700020157",
+          "",
       },
       {
         title: "Site Address",
         description:
-          "Prestige Dahisar: Kolshet Rd, Kolshet Industrial Area, Thane West, Thane, Maharashtra 400607",
+          "Prestige Dahisar:  Prestige Dahisar-Mira Road: Suhasini Pawaskar Rd, Narendra Complex, Vaishali Nagar, Dahisar East, Mumbai, Maharashtra 400068.",
       },
     ],
     disclaimer:
@@ -456,15 +456,15 @@ export const prestigeDahisarSiteConfig = {
 
   seo: {
     title:
-      "Prestige Dahisar by Lodha Group | Price, Floor Plans, Amenities | Request Brochure",
+      "Prestige Dahisar by Prestige Group | Price, Floor Plans, Amenities | Request Brochure",
     description:
-      "Experience luxury living at Prestige Dahisar, Thane. 1, 2 & 3 BHK apartments with world-class amenities.",
+      "Experience luxury living at Prestige Dahisar. 1, 2 & 3 BHK apartments with world-class amenities.",
     keywords: ["Prestige Dahisar", "1 bhk", "2 bhk", "3 bhk"],
   },
 
   termsAndConditions: {
     seo: {
-      title: "Terms & Conditions | Prestige Dahisar Thane",
+      title: "Terms & Conditions | Prestige Dahisar",
       description:
         "Please read these terms and conditions carefully before using our website.",
     },
@@ -543,7 +543,7 @@ export const prestigeDahisarSiteConfig = {
   thankYou: {
     seo: {
       title: "Prestige Dahisar | Thank You",
-      description: "Thank you for your interest in Prestige Dahisar Thane",
+      description: "Thank you for your interest in Prestige Dahisar",
     },
   },
 
@@ -554,7 +554,7 @@ export const prestigeDahisarSiteConfig = {
       baseUrl: "https://company133638.od2.vtiger.com",
       __vtrftk: "sid:d0b203e8fb8ff53c5b3673fb24119e03ae930517,1680088576",
       __vtCurrency: "1",
-      name: "Prestige Dahisar Thane",
+      name: "Prestige Dahisar",
       cfLeadsProjectSite: "Swaminarayan City",
       leadSource: "Web",
       emailOptin: "1",
