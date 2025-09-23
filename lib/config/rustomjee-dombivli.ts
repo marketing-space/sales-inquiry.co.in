@@ -455,7 +455,7 @@ With innovative architecture and eco-friendly features, Rustomjee Urban Woods de
     title:
       "Rustomjee Urban Woods 1,2 & 3 BHK Flats in Dombivli | Price, Floor Plans, Amenities | Request Brochure",
     description:
-      "Experience luxury living at Rustomjee Urban Woods, Thane. 2 & 3 BHK apartments with world-class amenities.",
+      "Experience luxury living at Rustomjee Urban Woods. 2 & 3 BHK apartments with world-class amenities.",
     keywords: [
       "luxury apartments",
       "Rustomjee Urban Woods",
