@@ -287,17 +287,22 @@ At Raheja Lunaris, life extends beyond the four walls of your home. A host of cu
     images: [
       {
         title: "",
-        image: "/raheja-lunaris/images/gallery/g4.webp",
+        image: "/raheja-lunaris/images/gallery/g1.jpg",
         description: "Elegantly designed living spaces with premium finishes",
       },
       {
         title: "",
-        image: "/raheja-lunaris/images/gallery/g5.webp",
+        image: "/raheja-lunaris/images/gallery/g2.jpg",
         description: "Breathtaking views of landscaped gardens",
       },
       {
         title: "",
-        image: "/raheja-lunaris/images/gallery/g6.webp",
+        image: "/raheja-lunaris/images/gallery/g3.jpg",
+        description: "Resort-style pool with premium amenities",
+      },
+      {
+        title: "",
+        image: "/raheja-lunaris/images/gallery/g4.jpg",
         description: "Resort-style pool with premium amenities",
       },
     ],
