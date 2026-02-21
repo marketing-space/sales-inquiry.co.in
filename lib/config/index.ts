@@ -2,11 +2,13 @@
 import { routes } from "./routes";
 
 import { rahejaLunarisSiteConfig } from "./raheja-lunaris";
+import { rahejaJadeCitySiteConfig } from "./raheja-jade-city";
 // import { siteConfig } from "./site";
 
 const configs = {
   // [routes.default]: lodhaAmaraSiteConfig,
-  [routes.RahejaLunaris]: rahejaLunarisSiteConfig
+  [routes.RahejaLunaris]: rahejaLunarisSiteConfig,
+  [routes.RahejaJadeCity]: rahejaJadeCitySiteConfig
 };
 
 export function getSiteConfig(site?: string) {
