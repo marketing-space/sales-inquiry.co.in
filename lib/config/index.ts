@@ -1,18 +1,12 @@
-import { lodhaAmaraSiteConfig } from "../config/regency-anatham";
-import { arkadeBhandupSiteConfig } from "./arkade-bhandup";
-import { prestigeDahisarSiteConfig } from "./Prestige-Dahisar";
+// import { lodhaAmaraSiteConfig } from "../config/regency-anatham";
 import { routes } from "./routes";
-import { rustomjeeDombivliConfig } from "./rustomjee-dombivli";
-import { siddhaWadalaSiteConfig } from "./siddha-wadala";
+
+import { rahejaLunarisSiteConfig } from "./raheja-lunaris";
 // import { siteConfig } from "./site";
 
 const configs = {
-  [routes.default]: lodhaAmaraSiteConfig,
-  [routes.Anantam]: lodhaAmaraSiteConfig,
-  [routes.RustomjeeDombivli]: rustomjeeDombivliConfig,
-  [routes.ArkadeBhandup]: arkadeBhandupSiteConfig,
-  [routes.PrestigeDahisar]: prestigeDahisarSiteConfig,
-  [routes.SiddhaWadala]: siddhaWadalaSiteConfig
+  // [routes.default]: lodhaAmaraSiteConfig,
+  [routes.RahejaLunaris]: rahejaLunarisSiteConfig
 };
 
 export function getSiteConfig(site?: string) {
