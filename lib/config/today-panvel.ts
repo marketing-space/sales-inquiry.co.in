@@ -11,10 +11,10 @@ import {
 } from "lucide-react";
 import { routes } from "./routes";
 
-const route = routes.TodayCloudCity;
+const route = routes.TodayPanvel;
 
-export const todayCloudCitySiteConfig = {
-  name: "Today Cloud City Codename Elara",
+export const todayPanvelSiteConfig = {
+  name: "Today Saubhagyam Codename Montana",
   about:
     `Today Global Developers is a brand synonymous with innovation, futuristic architecture, and landmark developments. With a strong legacy of delivering iconic commercial and residential projects across India, the group has established itself as a trusted name in the real estate industry.
 
@@ -25,7 +25,7 @@ Driven by quality, transparency, and long-term value creation, the brand stands 
     phone: "+919619095795",
     whatsapp: "+919619095795",
     address:
-      "Kharghar",
+      "Panvel",
   },
   gtmId: "GTM-T4RS9M9Z",
   navbar: {
@@ -69,12 +69,12 @@ Driven by quality, transparency, and long-term value creation, the brand stands 
     cta: {
       title: "Download Brochure",
       description:
-        "Download the brochure to learn more about Today Cloud City",
+        "Download the brochure to learn more about Today Saubhagyam",
     },
   },
 
   branding: {
-    logo: "/today-cloud-city/images/logo.svg",
+    logo: "/today-panvel/images/logo.svg",
     favicon: "/icon.jpg",
     ogImage: "/og-image.jpg",
   },
@@ -82,40 +82,38 @@ Driven by quality, transparency, and long-term value creation, the brand stands 
   hero: {
     banners: [
       {
-        src: "/today-cloud-city/images/banner1.webp",
-        alt: "Today Cloud City Interior",
+        src: "/today-panvel/images/banner1.webp",
+        alt: "Today Saubhagyam Interior",
       },
       {
-        src: "/today-cloud-city/images/banner2.webp",
-        alt: "Today Cloud City Interior",
+        src: "/today-panvel/images/banner2.webp",
+        alt: "Today Saubhagyam Interior",
       },
     ],
     welcome: {
       cta: {
         title: "Download Brochure",
         description:
-          "Download the brochure to learn more about Today Cloud City.",
+          "Download the brochure to learn more about Today Saubhagyam.",
       },
-      title: "Welcome to Today Cloud City Codename Elara",
-      description: `Elara at Today Codename Cloud City is a newly unveiled landmark tower set within a sprawling 9-acre luxury township in Upper Kharghar, Navi Mumbai. This premium development offers exclusive 4 BHK deck residences along with thoughtfully designed 2 and 3 BHK apartments, crafted for refined urban living.
+      title: "Welcome to Today Saubhagyam Codename Elara",
+      description: `Today Saubhagyam Codename Montana presents thoughtfully designed 1 and 2 BHK residences in the fast-growing locale of Panvel, Navi Mumbai. Strategically located at Palaspe Phata, this premium development offers homes with private decks, creating the perfect blend of comfort and scenic living.
 
-With only two residences per floor, Elara ensures exceptional privacy, comfort, and exclusivity. There is also a provision for Jodi apartments, allowing homeowners to create expansive, customised living spaces tailored to their needs. Each residence features a personalised lift access card entry system* for enhanced security and convenience.
+These Vastu-compliant residences are crafted with expansive decks, generous living and storage spaces, and serene lifetime greenery views. Designed to maximise natural light, ventilation, and privacy, each home reflects modern functionality with elegant aesthetics.
 
-Residents can indulge in an array of curated lifestyle amenities, including a multipurpose court, al fresco dining area, stargazing deck, indoor games zone, yoga and meditation space, and a host of other leisure features designed to elevate everyday living.
+The project promotes a healthier lifestyle with abundant open spaces and 22+ contemporary amenities. Residents can enjoy a multipurpose court, swimming pool, kids’ play area, open gym, landscaped garden, senior citizens’ seating area, jogging track, multipurpose hall, amphitheatre, grand lobby, CCTV surveillance, and much more. An exclusive shuttle bus service further adds convenience to everyday commuting.
 
-Strategically located, Elara enjoys seamless connectivity to prominent social and lifestyle hubs. Renowned institutions and landmarks such as Harmony School, Empyrean School, Tata Memorial Hospital, Kharghar Medicity Hospital, Little World Mall, Central Park, Dmart, ISKCON Temple, Kharghar Valley Golf Course, Gazebo Dhaba Restaurant, and the upcoming International Corporate Park are all within easy reach.
+Located in the prime hub of Panvel, the development ensures seamless connectivity to key social and commercial landmarks. Lifeline Hospital, Miraj Cinemas, Orion Mall, MNR International School, Delhi Public School, Amity University, St. Wilfred’s High School, Gandhi Super Speciality Hospital, and Dmart are all within a short drive. Panvel Railway Station is approximately 15 minutes away, while the Mumbai–Goa Highway and Mumbai–Pune Highway provide excellent connectivity to Mumbai, Pune, Satara, and the Konkan region.
 
-The project benefits from excellent connectivity via the Panvel–Mumbra Highway, offering smooth access to Kalyan Shilphata and Panvel, and is just minutes from the Sion–Panvel Highway. Amandoot Metro Station is nearby, while the upcoming Navi Mumbai International Airport is only a short drive away.
-
-Experience elevated living at Elara at Codename Cloud City — where luxury, privacy, and connectivity come together in Upper Kharghar.`,
+With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana stands as an ideal address for families seeking comfort, connectivity, and an elevated lifestyle in a flourishing neighbourhood.`,
     },
     offer: {
       title: "Booking Open: Limited Time Only",
-      location: "At Kharghar by Today Global Developers",
+      location: "At Panvel by Today Global Developers",
       points: [
-        { text: "Flexible Payment Plans Available" },
-        { text: "Spot Booking Discounts: Book Now" },
-        { text: "Avail Exclusive Early Buy Discounts" },
+        { text: "Book 1 BHK & Save Rs 3 Lakhs*" },
+        { text: "Book 2 BHK & Save Rs 4.5 Lakhs*" },
+        { text: "Early Buy Discounts Available" },
       ],
       cta: {
         title: "Book A Free Site Visit",
@@ -124,20 +122,20 @@ Experience elevated living at Elara at Codename Cloud City — where luxury, pri
       features: [
         {
           title: "Land Parcel",
-          value: "9 Acres",
+          value: "5 Acres",
         },
         {
           title: "Floors",
-          value: "G+27 Floors",
+          value: "G+18 Floors",
         },
         {
           title: "Possession",
-          value: "Dec 2026",
+          value: "Dec 2027",
         },
       ],
       price: {
-        title: "Luxurious 2, 3 & 4 BHK Starts at",
-        value: "84.69 Lacs",
+        title: "Luxurious 1 & 2 BHK Starts at",
+        value: "44.10 Lacs",
         suffix: "Onwards",
       },
     },
@@ -149,39 +147,45 @@ Experience elevated living at Elara at Codename Cloud City — where luxury, pri
       "Choose from our range of luxurious 2 & 3 BHK residences, each designed to offer the perfect blend of comfort and sophistication",
     prices: [
       {
-        type: "2 BHK",
-        carpetArea: "600 Sq.ft.",
-        price: "84.69 Lacs",
+        type: "1 BHK",
+        carpetArea: "384 Sq.ft.",
+        price: "44.10 Lacs",
         suffix: "Onwards",
       },
       {
+        type: "1 BHK",
+        carpetArea: "401 Sq.ft.",
+        price: "44.90 Lacs ",
+        suffix: "All Inc",
+      },
+      {
+        type: "1 BHK",
+        carpetArea: "426 Sq.ft.",
+        price: "47.70 Lacs",
+        suffix: "All Inc",
+      },
+      {
+        type: "1 BHK",
+        carpetArea: "436 Sq.ft.",
+        price: "48.60 Lacs ",
+        suffix: "All Inc",
+      },
+      {
         type: "2 BHK",
-        carpetArea: "640 Sq.ft.",
-        price: "99 Lacs",
+        carpetArea: "534 Sq.ft.",
+        price: "62 Lacs ",
         suffix: "All Inc",
       },
       {
-        type: "3 BHK",
-        carpetArea: "915 Sq.ft.",
-        price: "1.54 Cr ",
+        type: "2 BHK",
+        carpetArea: "580 Sq.ft.",
+        price: "65.70 Lacs",
         suffix: "All Inc",
       },
       {
-        type: "3 BHK",
-        carpetArea: "1030 Sq.ft.",
-        price: "1.57 Cr",
-        suffix: "All Inc",
-      },
-      {
-        type: "3 BHK",
-        carpetArea: "1070 Sq.ft.",
-        price: "1.62 Cr ",
-        suffix: "All Inc",
-      },
-      {
-        type: "4 BHK",
-        carpetArea: "1280 Sq.ft.",
-        price: "2 Cr",
+        type: "2 BHK",
+        carpetArea: "600+ Sq.ft.",
+        price: "65.70 Lacs",
         suffix: "All Inc",
       },
     ],
@@ -191,8 +195,8 @@ Experience elevated living at Elara at Codename Cloud City — where luxury, pri
     },
     detailPricing: {
       image: {
-        src: "/today-cloud-city/images/costing.webp",
-        alt: "Today Cloud City Costing",
+        src: "/today-panvel/images/costing.webp",
+        alt: "Today Saubhagyam Costing",
       },
       title: "Need Complete Costing Details?",
       description:
@@ -211,37 +215,32 @@ Experience elevated living at Elara at Codename Cloud City — where luxury, pri
     masterPlan: {
       title: "Master Plan",
       image: {
-        src: "/today-cloud-city/images/masterplan.webp",
+        src: "/today-panvel/images/masterplan.webp",
         alt: "Master Plan",
       },
       cta: {
         title: "View Master Plan",
-        description: "Explore the layout of Today Cloud City",
+        description: "Explore the layout of Today Saubhagyam",
       },
     },
     floorPlans: {
-      categories: ["All", "2 BHK", "3 BHK"],
+      categories: ["All", "1 BHK", "2 BHK"],
       title: "Floor Plans",
       plans: [
         {
-          type: "2 BHK-640 Sq.ft.",
-          image: "/today-cloud-city/images/coming.jpg",
+          type: "1 BHK-436 Sq.ft.",
+          image: "/today-panvel/images/plan-1.jpg",
+          category: "1 BHK",
+        },
+        {
+          type: "2 BHK-600+ Sq.ft.",
+          image: "/today-panvel/images/plan-2.jpg",
           category: "2 BHK",
-        },
-        {
-          type: "3 BHK-1070 Sq.ft.",
-          image: "/today-cloud-city/images/coming.jpg",
-          category: "3 BHK",
-        },
-        {
-          type: "4 BHK-1028 Sq.ft.",
-          image: "/today-cloud-city/images/coming.jpg",
-          category: "3 BHK",
         },
       ],
       cta: {
         title: "Enquire Now",
-        description: "Explore the layout of Today Cloud City",
+        description: "Explore the layout of Today Saubhagyam",
       },
     },
   },
@@ -252,67 +251,37 @@ Experience elevated living at Elara at Codename Cloud City — where luxury, pri
       "Discover a lifestyle enriched with premium amenities and facilities",
     cta: {
       title: "Download Amenities",
-      description: "Download the amenities of Today Cloud City",
+      description: "Download the amenities of Today Saubhagyam",
     },
     amenities: [
       {
-        title: "Infinity Swimming Pool ",
-        image: "/today-cloud-city/images/amenities/infinityswimmingpool.webp",
+        title: "Amphitheatre",
+        image: "/today-panvel/images/amenities/amphitheatre.webp",
         description: "",
       },
       {
-        title: "Rooftop Lounge",
-        image: "/today-cloud-city/images/amenities/rooftoplounge.webp",
+        title: "Children's Play Area",
+        image: "/today-panvel/images/amenities/kidsplayarea1.webp",
         description: "",
       },
       {
-        title: "Sky Deck",
-        image: "/today-cloud-city/images/amenities/skydeck.webp",
-        description: "",
-      },
-      {
-        title: "Fitness Center",
-        image: "/today-cloud-city/images/amenities/gym_01.webp",
-        description: "",
-      },
-      {
-        title: "Yoga & Meditation",
-        image: "/today-cloud-city/images/amenities/ZumbaStudio.webp",
-        description: "",
-      },
-      {
-        title: "Clubhouse",
-        image: "/today-cloud-city/images/amenities/clubhouse.webp",
-        description: "",
-      },
-      {
-        title: "Mini Theatre",
-        image: "/today-cloud-city/images/amenities/minitheatre.webp",
-        description: "",
-      },
-      {
-        title: "Co-working Spaces",
-        image: "/today-cloud-city/images/amenities/coworkingspaces.webp",
-        description: "",
-      },
-      {
-        title: "Sky Garden",
-        image: "/today-cloud-city/images/amenities/skygarden.webp",
-        description: "",
-      },
-      {
-        title: "Gazebo",
-        image: "/today-cloud-city/images/amenities/gazebo.webp",
-        description: "",
-      },
-      {
-        title: "Kid's Play Area",
-        image: "/today-cloud-city/images/amenities/ToddlersPlayArea.jpg",
+        title: "Garden",
+        image: "/today-panvel/images/amenities/garden.webp",
         description: "",
       },
       {
         title: "Jogging Track",
-        image: "/today-cloud-city/images/amenities/Joggingtrack1.webp",
+        image: "/today-panvel/images/amenities/joggingtrack.webp",
+        description: "",
+      },
+      {
+        title: "Meditation Zone",
+        image: "/today-panvel/images/amenities/meditationzone.webp",
+        description: "",
+      },
+      {
+        title: "Open Gym",
+        image: "/today-panvel/images/amenities/opengym.webp",
         description: "",
       },
     ],
@@ -328,27 +297,27 @@ Experience elevated living at Elara at Codename Cloud City — where luxury, pri
       "Experience luxury living through our carefully curated spaces",
     cta: {
       title: "Download Gallery",
-      description: "Download the gallery of Today Cloud City",
+      description: "Download the gallery of Today Saubhagyam",
     },
     images: [
       {
         title: "",
-        image: "/today-cloud-city/images/gallery/g1.webp",
+        image: "/today-panvel/images/gallery/g1.webp",
         description: "Elegantly designed living spaces with premium finishes",
       },
       {
         title: "",
-        image: "/today-cloud-city/images/gallery/g2.webp",
+        image: "/today-panvel/images/gallery/g2.webp",
         description: "Breathtaking views of landscaped gardens",
       },
       {
         title: "",
-        image: "/today-cloud-city/images/gallery/g3.webp",
+        image: "/today-panvel/images/gallery/g3.webp",
         description: "Resort-style pool with premium amenities",
       },
       {
         title: "",
-        image: "/today-cloud-city/images/gallery/g4.webp",
+        image: "/today-panvel/images/gallery/g4.webp",
         description: "Resort-style pool with premium amenities",
       },
     ],
@@ -358,23 +327,23 @@ Experience elevated living at Elara at Codename Cloud City — where luxury, pri
     title: "Location",
     description: "Strategically located for your convenience",
     googleMapIframe:
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2872.0008217237564!2d73.076218!3d19.089152199999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c1e9797c466b%3A0xd520125bb2f9ee71!2sToday%20Group%20Codename%20Cloud%20City%20Kharghar!5e1!3m2!1sen!2sin!4v1771743083589!5m2!1sen!2sin",
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2874.500859951525!2d73.1365108!3d18.9445052!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7e74478a157e7%3A0xadcab0d5148aaf2a!2sToday%20Saubhagyam!5e1!3m2!1sen!2sin!4v1771752431875!5m2!1sen!2sin",
     image: {
-      src: "/today-cloud-city/images/locationmap.webp",
+      src: "/today-panvel/images/locationmap.webp",
       alt: "Location Map",
     },
     landmarks: [
       {
-        title: "Taloja Metro Station",
-        description: "3 mins",
+        title: "Panvel Railway Station",
+        description: "20 mins",
       },
       {
         title: "Mumbai–Pune Expressway",
-        description: "15 mins",
+        description: "18 mins",
       },
       {
         title: "Navi Mumbai International Airport",
-        description: "25 mins",
+        description: "22 mins",
       },
     ],
     location: {
@@ -389,18 +358,18 @@ Experience elevated living at Elara at Codename Cloud City — where luxury, pri
   virtualTour: {
     title: "Virtual Tour Request",
     description:
-      "Experience Today Cloud City from the comfort of your home",
+      "Experience Today Saubhagyam from the comfort of your home",
     cta: {
       title: "Request Virtual Tour",
       description: "Schedule at your convenience",
     },
     image: {
-      src: "/today-cloud-city/images/banner1.webp",
+      src: "/today-panvel/images/banner1.webp",
       alt: "Virtual Tour",
     },
     videoTitle: "Virtual Tour",
     videoDescription:
-      "Experience Today Cloud City from the comfort of your home",
+      "Experience Today Saubhagyam from the comfort of your home",
     features: [
       {
         title: "360° Views",
@@ -427,7 +396,7 @@ Experience elevated living at Elara at Codename Cloud City — where luxury, pri
     title: "Get The Best Quote",
     bookFreeVisit: {
       image: {
-        src: "/today-cloud-city/images/ride.png",
+        src: "/today-panvel/images/ride.png",
         alt: "Book a Site Visit",
       },
       cta: {
@@ -464,12 +433,12 @@ Experience elevated living at Elara at Codename Cloud City — where luxury, pri
     rera: {
       title: "RERA Information",
       description:
-        "According to the RERA Act 2016 of the Government of India, all projects of the Today Cloud City, are listed on the Maharashtra Government's RERA website under registered projects.",
+        "According to the RERA Act 2016 of the Government of India, all projects of the Today Saubhagyam, are listed on the Maharashtra Government's RERA website under registered projects.",
       details: [
         {
-          title: "Today Cloud City",
-          reraNumber: "MahaRERA - P52000021559",
-          qrCode: "/today-cloud-city/images/qr.webp",
+          title: "Today Saubhagyam",
+          reraNumber: "MahaRERA - P52000053782",
+          qrCode: "/today-panvel/images/qr.webp",
         },
       ],
     },
@@ -492,12 +461,12 @@ Experience elevated living at Elara at Codename Cloud City — where luxury, pri
       {
         title: "Site Address",
         description:
-          "Today Global Cloud City: Next to Reliance Petrol Pump, Rohinjan, Kharghar, Navi Mumbai, Maharashtra 410210",
+          "Today Global Saubhagyam: Palaspa, Panvel, Shirdhon, Maharashtra 410221.",
       },
       {
         title: "Contact Us",
         description:
-          "Corporate Office: Today Group: Office No.1601-1602, 16th Floor, Kesar Solitaire, Plot No.5, Palm Beach Road, Sector-19, Sanpada, Navi Mumbai, Maharashtra-400705",
+          " Corporate Office: Today Global Developers: Office No. 1601-1602, 16th Floor, Kesar Solitaire, Plot No. 5, Palm Beach Road, Sector 19, Sanpada, Navi Mumbai, Maharashtra - 400705.",
       },
     ],
     disclaimer:
@@ -506,12 +475,12 @@ Experience elevated living at Elara at Codename Cloud City — where luxury, pri
 
   seo: {
     title:
-      "Today Cloud City 2 & 3 BHK Flats in Sion| Price, Floor Plans, Amenities | Request Brochure",
+      "Today Saubhagyam 2 & 3 BHK Flats in Sion| Price, Floor Plans, Amenities | Request Brochure",
     description:
-      "Experience luxury living at Today Cloud City,Sion. 2 & 3 BHK apartments with world-class amenities.",
+      "Experience luxury living at Today Saubhagyam,Sion. 2 & 3 BHK apartments with world-class amenities.",
     keywords: [
       "luxury apartments",
-      "Today Cloud City",
+      "Today Saubhagyam",
       "2 bhk",
       "3 bhk",
     ],
@@ -519,7 +488,7 @@ Experience elevated living at Elara at Codename Cloud City — where luxury, pri
 
   termsAndConditions: {
     seo: {
-      title: "Today Cloud City | Terms & Conditions",
+      title: "Today Saubhagyam | Terms & Conditions",
       description:
         "Please read these terms and conditions carefully before using our website.",
     },
@@ -547,7 +516,7 @@ Experience elevated living at Elara at Codename Cloud City — where luxury, pri
 
   privacyPolicy: {
     seo: {
-      title: "Today Cloud City | Privacy Policy",
+      title: "Today Saubhagyam | Privacy Policy",
       description: "This policy explains how we use your personal information.",
     },
     title: "Privacy Policy",
@@ -568,7 +537,7 @@ Experience elevated living at Elara at Codename Cloud City — where luxury, pri
 
   cookiesPolicy: {
     seo: {
-      title: "Today Cloud City | Cookies Policy",
+      title: "Today Saubhagyam | Cookies Policy",
       description:
         "This policy explains how we use cookies and similar technologies on our website.",
     },
@@ -591,8 +560,8 @@ Experience elevated living at Elara at Codename Cloud City — where luxury, pri
 
   thankYou: {
     seo: {
-      title: "Today Cloud City | Thank You",
-      description: "Thank you for your interest in Today Cloud City",
+      title: "Today Saubhagyam | Thank You",
+      description: "Thank you for your interest in Today Saubhagyam",
     },
   },
 
@@ -603,7 +572,7 @@ Experience elevated living at Elara at Codename Cloud City — where luxury, pri
       baseUrl: "https://company133638.od2.vtiger.com",
       __vtrftk: "sid:1b3cdc7b40504e947d6886a08517ac877e7e3224,1678943220",
       __vtCurrency: "1",
-      name: "Today Cloud City",
+      name: "Today Saubhagyam",
       cfLeadsProjectSite: "Dosti Eden",
       leadSource: "Web",
       emailOptin: "1",
@@ -611,10 +580,10 @@ Experience elevated living at Elara at Codename Cloud City — where luxury, pri
     email: {
       apiEndpoint: "/api/send-email",
       template: {
-        subject: "New Enquiry from Today Cloud City",
+        subject: "New Enquiry from Today Saubhagyam",
       },
     },
   },
 };
 
-export type TodayCloudCitySiteConfig = typeof todayCloudCitySiteConfig;
+export type TodayPanvelSiteConfig = typeof todayPanvelSiteConfig;

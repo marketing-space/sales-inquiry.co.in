@@ -3,4 +3,5 @@ export const routes = {
   RahejaLunaris: "Raheja/Lunaris",
   RahejaJadeCity: "Raheja/Jade-City",
   TodayCloudCity: "Today/Cloud-City",
+  TodayPanvel: "Today/Panvel",
 };

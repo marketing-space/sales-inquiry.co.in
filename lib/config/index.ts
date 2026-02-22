@@ -4,6 +4,7 @@ import { routes } from "./routes";
 import { rahejaLunarisSiteConfig } from "./raheja-lunaris";
 import { rahejaJadeCitySiteConfig } from "./raheja-jade-city";
 import { todayCloudCitySiteConfig } from "./today-cloud-city";
+import { todayPanvelSiteConfig } from "./today-panvel";
 // import { siteConfig } from "./site";
 
 const configs = {
@@ -11,6 +12,7 @@ const configs = {
   [routes.RahejaLunaris]: rahejaLunarisSiteConfig,
   [routes.RahejaJadeCity]: rahejaJadeCitySiteConfig,
   [routes.TodayCloudCity]: todayCloudCitySiteConfig,
+  [routes.TodayPanvel]: todayPanvelSiteConfig,
 };
 
 export function getSiteConfig(site?: string) {
