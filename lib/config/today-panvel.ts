@@ -14,7 +14,7 @@ import { routes } from "./routes";
 const route = routes.TodayPanvel;
 
 export const todayPanvelSiteConfig = {
-  name: "Today Saubhagyam Codename Montana",
+  name: "Today Saubhagyam",
   about:
     `Today Global Developers is a brand synonymous with innovation, futuristic architecture, and landmark developments. With a strong legacy of delivering iconic commercial and residential projects across India, the group has established itself as a trusted name in the real estate industry.
 
