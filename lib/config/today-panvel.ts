@@ -96,7 +96,7 @@ Driven by quality, transparency, and long-term value creation, the brand stands 
         description:
           "Download the brochure to learn more about Today Saubhagyam.",
       },
-      title: "Welcome to Today Saubhagyam Codename Elara",
+      title: "Welcome to Today Saubhagyam Codename Montana",
       description: `Today Saubhagyam Codename Montana presents thoughtfully designed 1 and 2 BHK residences in the fast-growing locale of Panvel, Navi Mumbai. Strategically located at Palaspe Phata, this premium development offers homes with private decks, creating the perfect blend of comfort and scenic living.
 
 These Vastu-compliant residences are crafted with expansive decks, generous living and storage spaces, and serene lifetime greenery views. Designed to maximise natural light, ventilation, and privacy, each home reflects modern functionality with elegant aesthetics.
@@ -475,9 +475,9 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
 
   seo: {
     title:
-      "Today Saubhagyam 2 & 3 BHK Flats in Sion| Price, Floor Plans, Amenities | Request Brochure",
+      "Today Saubhagyam 2 & 3 BHK Flats in Panvel| Price, Floor Plans, Amenities | Request Brochure",
     description:
-      "Experience luxury living at Today Saubhagyam,Sion. 2 & 3 BHK apartments with world-class amenities.",
+      "Experience luxury living at Today Saubhagyam,Panvel. 2 & 3 BHK apartments with world-class amenities.",
     keywords: [
       "luxury apartments",
       "Today Saubhagyam",
