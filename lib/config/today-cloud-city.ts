@@ -506,9 +506,9 @@ Experience elevated living at Elara at Codename Cloud City — where luxury, pri
 
   seo: {
     title:
-      "Today Cloud City 2 & 3 BHK Flats in Sion| Price, Floor Plans, Amenities | Request Brochure",
+      "Today Cloud City 2 & 3 BHK Flats in Panvel | Price, Floor Plans, Amenities | Request Brochure",
     description:
-      "Experience luxury living at Today Cloud City,Sion. 2 & 3 BHK apartments with world-class amenities.",
+      "Experience luxury living at Today Cloud City,Panvel. 2 & 3 BHK apartments with world-class amenities.",
     keywords: [
       "luxury apartments",
       "Today Cloud City",
