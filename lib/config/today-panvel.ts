@@ -481,8 +481,8 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
     keywords: [
       "luxury apartments",
       "Today Saubhagyam",
+      "1 bhk",
       "2 bhk",
-      "3 bhk",
     ],
   },
 
