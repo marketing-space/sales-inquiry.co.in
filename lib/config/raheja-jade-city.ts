@@ -460,14 +460,16 @@ Experience a lifestyle defined by comfort, elegance, and holistic living at K Ra
 
   seo: {
     title:
-      "Raheja Jade City 2 & 3 BHK Flats in Sion| Price, Floor Plans, Amenities | Request Brochure",
+      "Raheja Jade City 1, 2, 3 BHK & Jodi in Navi Mumbai | Price, Floor Plans, Amenities | Request Brochure",
     description:
-      "Experience luxury living at Raheja Jade City,Sion. 2 & 3 BHK apartments with world-class amenities.",
+      "Experience luxury living at Raheja Jade City,Navi Mumbai. 2 & 3 BHK apartments with world-class amenities.",
     keywords: [
       "luxury apartments",
       "Raheja Jade City",
+      "1 bhk",
       "2 bhk",
       "3 bhk",
+      "jodi",
     ],
   },
 

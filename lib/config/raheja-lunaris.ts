@@ -463,14 +463,16 @@ At Raheja Lunaris, life extends beyond the four walls of your home. A host of cu
 
   seo: {
     title:
-      "Raheja Lunaris 2 & 3 BHK Flats in Sion| Price, Floor Plans, Amenities | Request Brochure",
+      "Raheja Lunaris 1,2,3 & 4 BHKs in Navi Mumbai | Price, Floor Plans, Amenities | Request Brochure",
     description:
-      "Experience luxury living at Raheja Lunaris,Sion. 2 & 3 BHK apartments with world-class amenities.",
+      "Experience luxury living at Raheja Lunaris,Navi Mumbai . 2 & 3 BHK apartments with world-class amenities.",
     keywords: [
       "luxury apartments",
       "Raheja Lunaris",
+      "1 bhk",
       "2 bhk",
       "3 bhk",
+      "4 bhk",
     ],
   },
 
