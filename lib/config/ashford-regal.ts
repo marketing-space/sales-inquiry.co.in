@@ -11,23 +11,19 @@ import {
 } from "lucide-react";
 import { routes } from "./routes";
 
-const route = routes.TodayPanvel;
+const route = routes.AshfordRegal;
 
-export const todayPanvelSiteConfig = {
-  name: "Today Saubhagyam",
+export const ashfordRegalSiteConfig = {
+  name: "Ashford Regal Nahur",
   about:
-    `Today Global Developers is a brand synonymous with innovation, futuristic architecture, and landmark developments. With a strong legacy of delivering iconic commercial and residential projects across India, the group has established itself as a trusted name in the real estate industry.
-
-Expanding its footprint into Navi Mumbai with Global Cloud City, the developer brings its signature excellence and vision to one of the region’s most promising destinations. Known for integrating smart technologies, sustainable building practices, and customer-centric design, Today Global Developers continues to redefine modern urban living.
-
-Driven by quality, transparency, and long-term value creation, the brand stands out as a forward-thinking real estate leader shaping the cities of tomorrow.`,
+    "Founded in 1990 at a time of change and opportunity in India, Ashford was created by a visionary group of professionals determined to raise the bar in real estate. Built on a strong spirit of collaboration, the company has delivered exceptional developments across Mumbai’s Western and Central corridors. At Ashford, the craft of building a home is thoughtfully balanced with precision in design and functionality. Its true distinction lies in redefining luxury without compromise — creating homes that are not just meant for today, but designed to last for generations.",
   contact: {
     phone: "+919619095795",
     whatsapp: "+919619095795",
     address:
-      "Panvel",
+      "Nahur",
   },
-  gtmId: "GTM-WT4SLRTS",
+  gtmId: "GTM-TWVKFK3G",
   navbar: {
     navItems: [
       {
@@ -69,51 +65,45 @@ Driven by quality, transparency, and long-term value creation, the brand stands 
     cta: {
       title: "Download Brochure",
       description:
-        "Download the brochure to learn more about Today Saubhagyam",
+        "Download the brochure to learn more about Ashford Regal Nahur",
     },
   },
 
   branding: {
-    logo: "/today-panvel/images/logo.svg",
-    favicon: "/icon.jpg",
+    logo: "/ashford-regal/images/logo.jpeg",
+    favicon: "/icon.jpeg",
     ogImage: "/og-image.jpg",
   },
 
   hero: {
     banners: [
       {
-        src: "/today-panvel/images/banner1.webp",
-        alt: "Today Saubhagyam Interior",
+        src: "/ashford-regal/images/banner-1.webp",
+        alt: "Ashford Regal Nahur Interior",
       },
       {
-        src: "/today-panvel/images/banner2.webp",
-        alt: "Today Saubhagyam Interior",
+        src: "/ashford-regal/images/banner-2.webp",
+        alt: "Ashford Regal Nahur Interior",
       },
     ],
     welcome: {
       cta: {
         title: "Download Brochure",
         description:
-          "Download the brochure to learn more about Today Saubhagyam.",
+          "Download the brochure to learn more about Ashford Regal Nahur.",
       },
-      title: "Welcome to Today Saubhagyam Codename Montana",
-      description: `Today Saubhagyam Codename Montana presents thoughtfully designed 1 and 2 BHK residences in the fast-growing locale of Panvel, Navi Mumbai. Strategically located at Palaspe Phata, this premium development offers homes with private decks, creating the perfect blend of comfort and scenic living.
+      title: "Welcome to Ashford Regal Nahur",
+      description: `Located in Nahur West, Ashford Regal presents an expansive 5.5-acre township envisioned by Hafeez Contractor, offering an elevated standard of urban living. The development features five 40-storey towers with sweeping views of the Eastern Mangroves, complemented by a five-level podium dedicated to premium lifestyle amenities. With seamless connectivity and close access to the upcoming Goregaon–Mulund Link Road, residents enjoy both comfort and convenience at their doorstep.
 
-These Vastu-compliant residences are crafted with expansive decks, generous living and storage spaces, and serene lifetime greenery views. Designed to maximise natural light, ventilation, and privacy, each home reflects modern functionality with elegant aesthetics.
-
-The project promotes a healthier lifestyle with abundant open spaces and 22+ contemporary amenities. Residents can enjoy a multipurpose court, swimming pool, kids’ play area, open gym, landscaped garden, senior citizens’ seating area, jogging track, multipurpose hall, amphitheatre, grand lobby, CCTV surveillance, and much more. An exclusive shuttle bus service further adds convenience to everyday commuting.
-
-Located in the prime hub of Panvel, the development ensures seamless connectivity to key social and commercial landmarks. Lifeline Hospital, Miraj Cinemas, Orion Mall, MNR International School, Delhi Public School, Amity University, St. Wilfred’s High School, Gandhi Super Speciality Hospital, and Dmart are all within a short drive. Panvel Railway Station is approximately 15 minutes away, while the Mumbai–Goa Highway and Mumbai–Pune Highway provide excellent connectivity to Mumbai, Pune, Satara, and the Konkan region.
-
-With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana stands as an ideal address for families seeking comfort, connectivity, and an elevated lifestyle in a flourishing neighbourhood.`,
+Designed to embody timeless elegance, Ashford Regal brings together refined luxury and purposeful living, creating a community defined by comfort and distinction. The thoughtfully planned 1 and 2 BHK residences feature intelligent layouts, high-quality finishes, and interiors crafted to maximize space and functionality — delivering a truly regal living experience every day.
+`,
     },
     offer: {
       title: "Booking Open: Limited Time Only",
-      location: "At Panvel by Today Global Developers",
+      location: "At Nahur By Ashford Group",
       points: [
-        { text: "Book 1 BHK & Save Rs 3 Lakhs*" },
-        { text: "Book 2 BHK & Save Rs 4.5 Lakhs*" },
-        { text: "Early Buy Discounts Available" },
+        { text: "No Floor Rise*" },
+        { text: "Avail Best Payment Plans*" },
       ],
       cta: {
         title: "Book A Free Site Visit",
@@ -122,20 +112,20 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
       features: [
         {
           title: "Land Parcel",
-          value: "5 Acres",
+          value: "5.5 Acres",
         },
         {
           title: "Floors",
-          value: "G+18 Floors",
+          value: "G+39 Storey",
         },
-        {
-          title: "Possession",
-          value: "Dec 2027",
-        },
+        // {
+        //   title: "Possession",
+        //   value: "Dec 2030",
+        // },
       ],
       price: {
-        title: "Luxurious 1 & 2 BHK Starts at",
-        value: "44.10 Lacs",
+        title: "Luxurious 1 & 2 BHK With Balcony Starts from",
+        value: "95 Lacs*",
         suffix: "Onwards",
       },
     },
@@ -147,46 +137,16 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
       "Choose from our range of luxurious 2 & 3 BHK residences, each designed to offer the perfect blend of comfort and sophistication",
     prices: [
       {
-        type: "1 BHK",
-        carpetArea: "384 Sq.ft.",
-        price: "44.10 Lacs",
+        type: "1 BHK + Deck",
+        carpetArea: "On Request",
+        price: "95 Lacs*",
         suffix: "Onwards",
       },
       {
-        type: "1 BHK",
-        carpetArea: "401 Sq.ft.",
-        price: "44.90 Lacs ",
-        suffix: "All Inc",
-      },
-      {
-        type: "1 BHK",
-        carpetArea: "426 Sq.ft.",
-        price: "47.70 Lacs",
-        suffix: "All Inc",
-      },
-      {
-        type: "1 BHK",
-        carpetArea: "436 Sq.ft.",
-        price: "48.60 Lacs ",
-        suffix: "All Inc",
-      },
-      {
-        type: "2 BHK",
-        carpetArea: "534 Sq.ft.",
-        price: "62 Lacs ",
-        suffix: "All Inc",
-      },
-      {
-        type: "2 BHK",
-        carpetArea: "580 Sq.ft.",
-        price: "65.70 Lacs",
-        suffix: "All Inc",
-      },
-      {
-        type: "2 BHK",
-        carpetArea: "600+ Sq.ft.",
-        price: "65.70 Lacs",
-        suffix: "All Inc",
+        type: "2 BHK + Deck",
+        carpetArea: "On Request",
+        price: "1.46 Cr*",
+        suffix: "Onwards",
       },
     ],
     cta: {
@@ -195,8 +155,8 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
     },
     detailPricing: {
       image: {
-        src: "/today-panvel/images/costing.webp",
-        alt: "Today Saubhagyam Costing",
+        src: "/ashford-regal/images/costing.webp",
+        alt: "Ashford Regal Nahur Costing",
       },
       title: "Need Complete Costing Details?",
       description:
@@ -215,12 +175,12 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
     masterPlan: {
       title: "Master Plan",
       image: {
-        src: "/today-panvel/images/masterplan.webp",
+        src: "/ashford-regal/images/masterplan.webp",
         alt: "Master Plan",
       },
       cta: {
         title: "View Master Plan",
-        description: "Explore the layout of Today Saubhagyam",
+        description: "Explore the layout of Ashford Regal Nahur",
       },
     },
     floorPlans: {
@@ -228,19 +188,19 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
       title: "Floor Plans",
       plans: [
         {
-          type: "1 BHK-436 Sq.ft.",
-          image: "/today-panvel/images/plan-1.jpg",
+          type: "1 BHK",
+          image: "/ashford-regal/images/plan-1.webp",
           category: "1 BHK",
         },
         {
-          type: "2 BHK-600+ Sq.ft.",
-          image: "/today-panvel/images/plan-2.jpg",
+          type: "2 BHK",
+          image: "/ashford-regal/images/plan-1.webp",
           category: "2 BHK",
         },
       ],
       cta: {
         title: "Enquire Now",
-        description: "Explore the layout of Today Saubhagyam",
+        description: "Explore the layout of Ashford Regal Nahur",
       },
     },
   },
@@ -251,39 +211,40 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
       "Discover a lifestyle enriched with premium amenities and facilities",
     cta: {
       title: "Download Amenities",
-      description: "Download the amenities of Today Saubhagyam",
+      description: "Download the amenities of Ashford Regal Nahur",
     },
     amenities: [
       {
-        title: "Amphitheatre",
-        image: "/today-panvel/images/amenities/amphitheatre.webp",
+        title: "Cafeteria",
+        image: "/ashford-regal/images/amenities/cafeteria_1.webp",
         description: "",
       },
       {
-        title: "Children's Play Area",
-        image: "/today-panvel/images/amenities/kidsplayarea1.webp",
+        title: "Swimming Pool",
+        image: "/ashford-regal/images/amenities/swimmingpools1.webp",
         description: "",
       },
       {
-        title: "Garden",
-        image: "/today-panvel/images/amenities/garden.webp",
+        title: "Library",
+        image: "/ashford-regal/images/amenities/library-lounge.jpg",
         description: "",
       },
       {
-        title: "Jogging Track",
-        image: "/today-panvel/images/amenities/joggingtrack.webp",
+        title: "Kid's Play Area",
+        image: "/ashford-regal/images/amenities/kidsplayarea.webp",
         description: "",
       },
       {
-        title: "Meditation Zone",
-        image: "/today-panvel/images/amenities/meditationzone.webp",
+        title: "Gym",
+        image: "/ashford-regal/images/amenities/gym.webp",
         description: "",
       },
       {
-        title: "Open Gym",
-        image: "/today-panvel/images/amenities/opengym.webp",
+        title: "Jain Temple",
+        image: "/ashford-regal/images/amenities/temple_01.webp",
         description: "",
       },
+
     ],
     stats: {
       title: "32+ World-Class Amenities",
@@ -297,27 +258,22 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
       "Experience luxury living through our carefully curated spaces",
     cta: {
       title: "Download Gallery",
-      description: "Download the gallery of Today Saubhagyam",
+      description: "Download the gallery of Ashford Regal Nahur",
     },
     images: [
       {
         title: "",
-        image: "/today-panvel/images/gallery/g1.webp",
+        image: "/ashford-regal/images/gallery/g1.webp",
         description: "Elegantly designed living spaces with premium finishes",
       },
       {
         title: "",
-        image: "/today-panvel/images/gallery/g2.webp",
+        image: "/ashford-regal/images/gallery/g2.webp",
         description: "Breathtaking views of landscaped gardens",
       },
       {
         title: "",
-        image: "/today-panvel/images/gallery/g3.webp",
-        description: "Resort-style pool with premium amenities",
-      },
-      {
-        title: "",
-        image: "/today-panvel/images/gallery/g4.webp",
+        image: "/ashford-regal/images/gallery/g3.webp",
         description: "Resort-style pool with premium amenities",
       },
     ],
@@ -327,23 +283,27 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
     title: "Location",
     description: "Strategically located for your convenience",
     googleMapIframe:
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2874.500859951525!2d73.1365108!3d18.9445052!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7e74478a157e7%3A0xadcab0d5148aaf2a!2sToday%20Saubhagyam!5e1!3m2!1sen!2sin!4v1771752431875!5m2!1sen!2sin",
+      "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d45934.49462898358!2d72.944018!3d19.15217!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b9006dfcf819%3A0x44f7e5fee327fac!2sASHFORD%20Regal!5e1!3m2!1sen!2sus!4v1772272710367!5m2!1sen!2sus",
     image: {
-      src: "/today-panvel/images/locationmap.webp",
+      src: "/ashford-regal/images/locationmap.webp",
       alt: "Location Map",
     },
     landmarks: [
       {
-        title: "Panvel Railway Station",
-        description: "20 mins",
+        title: "Nahur Station ",
+        description: "2 Mins",
       },
       {
-        title: "Mumbai–Pune Expressway",
-        description: "18 mins",
+        title: "Eastern Express Highway",
+        description: "6 Mins",
       },
       {
-        title: "Navi Mumbai International Airport",
-        description: "22 mins",
+        title: "LBS Road ",
+        description: "2 Mins",
+      },
+      {
+        title: "JVLR",
+        description: "9 Mins",
       },
     ],
     location: {
@@ -358,18 +318,18 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
   virtualTour: {
     title: "Virtual Tour Request",
     description:
-      "Experience Today Saubhagyam from the comfort of your home",
+      "Experience Ashford Regal Nahur from the comfort of your home",
     cta: {
       title: "Request Virtual Tour",
       description: "Schedule at your convenience",
     },
     image: {
-      src: "/today-panvel/images/banner1.webp",
+      src: "/ashford-regal/images/banner-1.webp",
       alt: "Virtual Tour",
     },
     videoTitle: "Virtual Tour",
     videoDescription:
-      "Experience Today Saubhagyam from the comfort of your home",
+      "Experience Ashford Regal Nahur from the comfort of your home",
     features: [
       {
         title: "360° Views",
@@ -396,7 +356,7 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
     title: "Get The Best Quote",
     bookFreeVisit: {
       image: {
-        src: "/today-panvel/images/ride.png",
+        src: "/ashford-regal/images/ride.png",
         alt: "Book a Site Visit",
       },
       cta: {
@@ -433,12 +393,12 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
     rera: {
       title: "RERA Information",
       description:
-        "According to the RERA Act 2016 of the Government of India, all projects of the Today Saubhagyam, are listed on the Maharashtra Government's RERA website under registered projects.",
+        "According to the RERA Act 2016 of the Government of India, all projects of the Ashford Regal Nahur, are listed on the Maharashtra Government's RERA website under registered projects.",
       details: [
         {
-          title: "Today Saubhagyam",
-          reraNumber: "MahaRERA - P52000053782",
-          qrCode: "/today-panvel/images/qr.webp",
+          title: "Ashford Regal Nahur",
+          reraNumber: "MahaRERA - P51800047421",
+          qrCode: "/ashford-regal/images/qr.jpg",
         },
       ],
     },
@@ -456,17 +416,12 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
       {
         title: "RERA Numbers",
         description:
-          "RERA Project Registration No.:P52000021559",
+          "RERA Project Registration No.:P51800047421",
       },
       {
         title: "Site Address",
         description:
-          "Today Global Saubhagyam: Palaspa, Panvel, Shirdhon, Maharashtra 410221.",
-      },
-      {
-        title: "Contact Us",
-        description:
-          " Corporate Office: Today Global Developers: Office No. 1601-1602, 16th Floor, Kesar Solitaire, Plot No. 5, Palm Beach Road, Sector 19, Sanpada, Navi Mumbai, Maharashtra - 400705.",
+          "Ashford Regal Nahur: RM Ashford Regal Rd, Nahur West, Industrial Area, Bhandup West, Mumbai, Maharashtra 400078, India",
       },
     ],
     disclaimer:
@@ -475,20 +430,22 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
 
   seo: {
     title:
-      "Today Saubhagyam 2 & 3 BHK Flats in Panvel| Price, Floor Plans, Amenities | Request Brochure",
+      "Ashford Regal Nahur 1, 2, 3 BHK & Jodi in Navi Mumbai | Price, Floor Plans, Amenities | Request Brochure",
     description:
-      "Experience luxury living at Today Saubhagyam,Panvel. 2 & 3 BHK apartments with world-class amenities.",
+      "Experience luxury living at Ashford Regal Nahur,Navi Mumbai. 2 & 3 BHK apartments with world-class amenities.",
     keywords: [
       "luxury apartments",
-      "Today Saubhagyam",
+      "Ashford Regal Nahur",
       "1 bhk",
       "2 bhk",
+      "3 bhk",
+      "jodi",
     ],
   },
 
   termsAndConditions: {
     seo: {
-      title: "Today Saubhagyam | Terms & Conditions",
+      title: "Ashford Regal Nahur | Terms & Conditions",
       description:
         "Please read these terms and conditions carefully before using our website.",
     },
@@ -516,7 +473,7 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
 
   privacyPolicy: {
     seo: {
-      title: "Today Saubhagyam | Privacy Policy",
+      title: "Ashford Regal Nahur | Privacy Policy",
       description: "This policy explains how we use your personal information.",
     },
     title: "Privacy Policy",
@@ -537,7 +494,7 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
 
   cookiesPolicy: {
     seo: {
-      title: "Today Saubhagyam | Cookies Policy",
+      title: "Ashford Regal Nahur | Cookies Policy",
       description:
         "This policy explains how we use cookies and similar technologies on our website.",
     },
@@ -560,19 +517,19 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
 
   thankYou: {
     seo: {
-      title: "Today Saubhagyam | Thank You",
-      description: "Thank you for your interest in Today Saubhagyam",
+      title: "Ashford Regal Nahur | Thank You",
+      description: "Thank you for your interest in Ashford Regal Nahur",
     },
   },
 
   formSubmission: {
     crm: {
-      formId: "__vtigerWebForm_173",
-      publicId: "ff7d5955c74844ea07851423a58038fb",
+      formId: "__vtigerWebForm_175",
+      publicId: "092c0d32d0cff27fae3086b6de0055ec",
       baseUrl: "https://company133638.od2.vtiger.com",
       __vtrftk: "sid:1b3cdc7b40504e947d6886a08517ac877e7e3224,1678943220",
       __vtCurrency: "1",
-      name: "Today panvel",
+      name: "Ashford Regal",
       cfLeadsProjectSite: "Dosti Eden",
       leadSource: "Web",
       emailOptin: "1",
@@ -580,10 +537,10 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
     email: {
       apiEndpoint: "/api/send-email",
       template: {
-        subject: "New Enquiry from Today Saubhagyam",
+        subject: "New Enquiry from Ashford Regal Nahur",
       },
     },
   },
 };
 
-export type TodayPanvelSiteConfig = typeof todayPanvelSiteConfig;
+export type AshfordRegalSiteConfig = typeof ashfordRegalSiteConfig;

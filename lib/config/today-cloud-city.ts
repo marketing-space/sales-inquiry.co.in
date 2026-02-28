@@ -27,7 +27,7 @@ Driven by quality, transparency, and long-term value creation, the brand stands 
     address:
       "Kharghar",
   },
-  gtmId: "GTM-T4RS9M9Z",
+  gtmId: "GTM-K9PF4BD3",
   navbar: {
     navItems: [
       {

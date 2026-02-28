@@ -11,23 +11,19 @@ import {
 } from "lucide-react";
 import { routes } from "./routes";
 
-const route = routes.TodayPanvel;
+const route = routes.WadhwaWiseCity;
 
-export const todayPanvelSiteConfig = {
-  name: "Today Saubhagyam",
+export const wadhwaWiseCitySiteConfig = {
+  name: "Wadhwa Wise City Launching New Tower",
   about:
-    `Today Global Developers is a brand synonymous with innovation, futuristic architecture, and landmark developments. With a strong legacy of delivering iconic commercial and residential projects across India, the group has established itself as a trusted name in the real estate industry.
-
-Expanding its footprint into Navi Mumbai with Global Cloud City, the developer brings its signature excellence and vision to one of the region’s most promising destinations. Known for integrating smart technologies, sustainable building practices, and customer-centric design, Today Global Developers continues to redefine modern urban living.
-
-Driven by quality, transparency, and long-term value creation, the brand stands out as a forward-thinking real estate leader shaping the cities of tomorrow.`,
+    "With a legacy spanning over five decades, The Wadhwa Group stands among India’s most respected real estate developers. Its projects reflect enduring craftsmanship, forward-thinking vision, and distinctive architectural innovation. Known for designing spacious, well-ventilated residences filled with natural light, the group prioritizes comfort alongside quality. With a strong presence across key Mumbai neighborhoods such as Ghatkopar, Goregaon, Mulund, Powai, and Borivali, The Wadhwa Group has become synonymous with reliability and excellence in Indian real estate.",
   contact: {
     phone: "+919619095795",
     whatsapp: "+919619095795",
     address:
-      "Panvel",
+      "Navi Mumbai",
   },
-  gtmId: "GTM-WT4SLRTS",
+  gtmId: "GTM-WXHGV54V",
   navbar: {
     navItems: [
       {
@@ -69,12 +65,12 @@ Driven by quality, transparency, and long-term value creation, the brand stands 
     cta: {
       title: "Download Brochure",
       description:
-        "Download the brochure to learn more about Today Saubhagyam",
+        "Download the brochure to learn more about Wadhwa Wise City",
     },
   },
 
   branding: {
-    logo: "/today-panvel/images/logo.svg",
+    logo: "/raheja-jade-city/images/logo.svg",
     favicon: "/icon.jpg",
     ogImage: "/og-image.jpg",
   },
@@ -82,38 +78,38 @@ Driven by quality, transparency, and long-term value creation, the brand stands 
   hero: {
     banners: [
       {
-        src: "/today-panvel/images/banner1.webp",
-        alt: "Today Saubhagyam Interior",
+        src: "/raheja-jade-city/images/banner1.webp",
+        alt: "Wadhwa Wise City Interior",
       },
       {
-        src: "/today-panvel/images/banner2.webp",
-        alt: "Today Saubhagyam Interior",
+        src: "/raheja-jade-city/images/banner2.webp",
+        alt: "Wadhwa Wise City Interior",
       },
     ],
     welcome: {
       cta: {
         title: "Download Brochure",
         description:
-          "Download the brochure to learn more about Today Saubhagyam.",
+          "Download the brochure to learn more about Wadhwa Wise City.",
       },
-      title: "Welcome to Today Saubhagyam Codename Montana",
-      description: `Today Saubhagyam Codename Montana presents thoughtfully designed 1 and 2 BHK residences in the fast-growing locale of Panvel, Navi Mumbai. Strategically located at Palaspe Phata, this premium development offers homes with private decks, creating the perfect blend of comfort and scenic living.
+      title: "Welcome to Wadhwa Wise City",
+      description: `K Wadhwa Wise City is a distinguished mixed-use development ideally situated in Juinagar, Navi Mumbai, offering a refined blend of residential, retail, and commercial spaces. Spread across an expansive 55-acre land parcel, the project features thoughtfully designed 1, 2, and 3 BHK residences along with spacious Jodi homes, crafted to reflect contemporary lifestyles and modern sensibilities.
 
-These Vastu-compliant residences are crafted with expansive decks, generous living and storage spaces, and serene lifetime greenery views. Designed to maximise natural light, ventilation, and privacy, each home reflects modern functionality with elegant aesthetics.
+Each home at Jade City is designed with well-planned layouts, elegant interiors, and functional spaces that seamlessly combine comfort and convenience. Built around the live-work-play philosophy, the development creates a self-sustained ecosystem where everyday essentials, business spaces, and leisure amenities coexist within the same vibrant community. An international-standard school within the township further enhances its appeal, ensuring access to quality education right at your doorstep.
 
-The project promotes a healthier lifestyle with abundant open spaces and 22+ contemporary amenities. Residents can enjoy a multipurpose court, swimming pool, kids’ play area, open gym, landscaped garden, senior citizens’ seating area, jogging track, multipurpose hall, amphitheatre, grand lobby, CCTV surveillance, and much more. An exclusive shuttle bus service further adds convenience to everyday commuting.
+Residents can enjoy a wide array of premium amenities, including a grand clubhouse, amphitheatre, adventure playground, landscaped open areas, solar-powered common spaces, high-speed elevators, CCTV surveillance, dedicated kids’ play zones, and serene sit-out areas for senior citizens.
 
-Located in the prime hub of Panvel, the development ensures seamless connectivity to key social and commercial landmarks. Lifeline Hospital, Miraj Cinemas, Orion Mall, MNR International School, Delhi Public School, Amity University, St. Wilfred’s High School, Gandhi Super Speciality Hospital, and Dmart are all within a short drive. Panvel Railway Station is approximately 15 minutes away, while the Mumbai–Goa Highway and Mumbai–Pune Highway provide excellent connectivity to Mumbai, Pune, Satara, and the Konkan region.
+Strategically located, Wadhwa Wise City offers excellent connectivity through the Nerul Flyover and nearby railway stations such as Juinagar and Vashi, along with access to the Kharghar Metro Station. Prominent social and commercial hubs including Inorbit Mall, IKEA, reputed hospitals, educational institutions, business parks, banks, restaurants, and entertainment centers are all within easy reach — ensuring unmatched convenience.
 
-With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana stands as an ideal address for families seeking comfort, connectivity, and an elevated lifestyle in a flourishing neighbourhood.`,
+Experience a lifestyle defined by comfort, elegance, and holistic living at K Wadhwa Wise City.`,
     },
     offer: {
       title: "Booking Open: Limited Time Only",
-      location: "At Panvel by Today Global Developers",
+      location: "At Juinagar, Navi Mumbai By Raheja Universal",
       points: [
-        { text: "Book 1 BHK & Save Rs 3 Lakhs*" },
-        { text: "Book 2 BHK & Save Rs 4.5 Lakhs*" },
-        { text: "Early Buy Discounts Available" },
+        { text: "Exclusive Pre-Launch Benefits" },
+        { text: "EOI Amount ₹2 Lac:Book Now" },
+        { text: "Best Prices & Early Selection Offer" },
       ],
       cta: {
         title: "Book A Free Site Visit",
@@ -122,20 +118,20 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
       features: [
         {
           title: "Land Parcel",
-          value: "5 Acres",
+          value: "55 Acres",
         },
-        {
-          title: "Floors",
-          value: "G+18 Floors",
-        },
+        // {
+        //   title: "Floors",
+        //   value: "G+32 Floors",
+        // },
         {
           title: "Possession",
-          value: "Dec 2027",
+          value: "Dec 2030",
         },
       ],
       price: {
-        title: "Luxurious 1 & 2 BHK Starts at",
-        value: "44.10 Lacs",
+        title: "Luxurious 1, 2, 3 BHK & Jodi Starts from",
+        value: "1.35 Cr",
         suffix: "Onwards",
       },
     },
@@ -148,45 +144,33 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
     prices: [
       {
         type: "1 BHK",
-        carpetArea: "384 Sq.ft.",
-        price: "44.10 Lacs",
+        carpetArea: "490 Sq.ft. – 500 Sq.ft.",
+        price: "98 Lacs*",
         suffix: "Onwards",
       },
       {
-        type: "1 BHK",
-        carpetArea: "401 Sq.ft.",
-        price: "44.90 Lacs ",
-        suffix: "All Inc",
-      },
-      {
-        type: "1 BHK",
-        carpetArea: "426 Sq.ft.",
-        price: "47.70 Lacs",
-        suffix: "All Inc",
-      },
-      {
-        type: "1 BHK",
-        carpetArea: "436 Sq.ft.",
-        price: "48.60 Lacs ",
-        suffix: "All Inc",
+        type: "1+1 BHK",
+        carpetArea: "980 Sq.ft. – 1000 Sq.ft.",
+        price: "2.75 Cr – 2.85 Cr",
+        suffix: "Onwards",
       },
       {
         type: "2 BHK",
-        carpetArea: "534 Sq.ft.",
-        price: "62 Lacs ",
-        suffix: "All Inc",
+        carpetArea: "700 Sq.ft. – 710 Sq.ft.",
+        price: "1.99 Cr",
+        suffix: "Onwards",
       },
       {
-        type: "2 BHK",
-        carpetArea: "580 Sq.ft.",
-        price: "65.70 Lacs",
-        suffix: "All Inc",
+        type: "2+2 BHK",
+        carpetArea: "1400 Sq.ft. - 1420 Sq.ft.",
+        price: "3.90 Cr – 4.15 Cr",
+        suffix: "Onwards",
       },
       {
-        type: "2 BHK",
-        carpetArea: "600+ Sq.ft.",
-        price: "65.70 Lacs",
-        suffix: "All Inc",
+        type: "3 BHK",
+        carpetArea: "1020 Sq.ft. - 1030 Sq.ft.",
+        price: "3.20 Cr",
+        suffix: "Onwards",
       },
     ],
     cta: {
@@ -195,8 +179,8 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
     },
     detailPricing: {
       image: {
-        src: "/today-panvel/images/costing.webp",
-        alt: "Today Saubhagyam Costing",
+        src: "/raheja-jade-city/images/costing.webp",
+        alt: "Wadhwa Wise City Costing",
       },
       title: "Need Complete Costing Details?",
       description:
@@ -215,32 +199,37 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
     masterPlan: {
       title: "Master Plan",
       image: {
-        src: "/today-panvel/images/masterplan.webp",
+        src: "/raheja-jade-city/images/masterplan.webp",
         alt: "Master Plan",
       },
       cta: {
         title: "View Master Plan",
-        description: "Explore the layout of Today Saubhagyam",
+        description: "Explore the layout of Wadhwa Wise City",
       },
     },
     floorPlans: {
-      categories: ["All", "1 BHK", "2 BHK"],
+      categories: ["All", "1 BHK", "2 BHK", "3 BHK"],
       title: "Floor Plans",
       plans: [
         {
-          type: "1 BHK-436 Sq.ft.",
-          image: "/today-panvel/images/plan-1.jpg",
+          type: "1 BHK-490-500 Sq.ft.",
+          image: "/raheja-jade-city/images/coming.jpg",
           category: "1 BHK",
         },
         {
-          type: "2 BHK-600+ Sq.ft.",
-          image: "/today-panvel/images/plan-2.jpg",
+          type: "2 BHK-700-710 Sq.ft.",
+          image: "/raheja-jade-city/images/coming.jpg",
           category: "2 BHK",
+        },
+        {
+          type: "3 BHK-1020-1030 Sq.ft.",
+          image: "/raheja-jade-city/images/coming.jpg",
+          category: "3 BHK",
         },
       ],
       cta: {
         title: "Enquire Now",
-        description: "Explore the layout of Today Saubhagyam",
+        description: "Explore the layout of Wadhwa Wise City",
       },
     },
   },
@@ -251,39 +240,40 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
       "Discover a lifestyle enriched with premium amenities and facilities",
     cta: {
       title: "Download Amenities",
-      description: "Download the amenities of Today Saubhagyam",
+      description: "Download the amenities of Wadhwa Wise City",
     },
     amenities: [
       {
-        title: "Amphitheatre",
-        image: "/today-panvel/images/amenities/amphitheatre.webp",
+        title: "Clubhouse",
+        image: "/raheja-jade-city/images/amenities/clubhouse.webp",
         description: "",
       },
       {
-        title: "Children's Play Area",
-        image: "/today-panvel/images/amenities/kidsplayarea1.webp",
+        title: "Swimming Pool",
+        image: "/raheja-jade-city/images/amenities/swimmingpools1.webp",
+        description: "",
+      },
+      {
+        title: "Multipurpose Hall",
+        image: "/raheja-jade-city/images/amenities/MultipurposeHall11.webp",
+        description: "",
+      },
+      {
+        title: "Sports Court",
+        image: "/raheja-jade-city/images/amenities/multipurposesportscourt.webp",
         description: "",
       },
       {
         title: "Garden",
-        image: "/today-panvel/images/amenities/garden.webp",
+        image: "/raheja-jade-city/images/amenities/garden.jpg",
         description: "",
       },
       {
-        title: "Jogging Track",
-        image: "/today-panvel/images/amenities/joggingtrack.webp",
+        title: "Amphiteatre",
+        image: "/raheja-jade-city/images/amenities/amphi_01.webp",
         description: "",
       },
-      {
-        title: "Meditation Zone",
-        image: "/today-panvel/images/amenities/meditationzone.webp",
-        description: "",
-      },
-      {
-        title: "Open Gym",
-        image: "/today-panvel/images/amenities/opengym.webp",
-        description: "",
-      },
+
     ],
     stats: {
       title: "32+ World-Class Amenities",
@@ -297,27 +287,27 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
       "Experience luxury living through our carefully curated spaces",
     cta: {
       title: "Download Gallery",
-      description: "Download the gallery of Today Saubhagyam",
+      description: "Download the gallery of Wadhwa Wise City",
     },
     images: [
       {
         title: "",
-        image: "/today-panvel/images/gallery/g1.webp",
+        image: "/raheja-jade-city/images/gallery/g1.webp",
         description: "Elegantly designed living spaces with premium finishes",
       },
       {
         title: "",
-        image: "/today-panvel/images/gallery/g2.webp",
+        image: "/raheja-jade-city/images/gallery/g2.webp",
         description: "Breathtaking views of landscaped gardens",
       },
       {
         title: "",
-        image: "/today-panvel/images/gallery/g3.webp",
+        image: "/raheja-jade-city/images/gallery/g3.webp",
         description: "Resort-style pool with premium amenities",
       },
       {
         title: "",
-        image: "/today-panvel/images/gallery/g4.webp",
+        image: "/raheja-jade-city/images/gallery/g4.webp",
         description: "Resort-style pool with premium amenities",
       },
     ],
@@ -327,23 +317,23 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
     title: "Location",
     description: "Strategically located for your convenience",
     googleMapIframe:
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2874.500859951525!2d73.1365108!3d18.9445052!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7e74478a157e7%3A0xadcab0d5148aaf2a!2sToday%20Saubhagyam!5e1!3m2!1sen!2sin!4v1771752431875!5m2!1sen!2sin",
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2872.667025590058!2d73.0279425!3d19.0507104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c32a8e58acc3%3A0xae0923e490d002ff!2sRaheja%20Jade%20City%20%E2%80%93%20Juinagar!5e1!3m2!1sen!2sin!4v1771676127578!5m2!1sen!2sin",
     image: {
-      src: "/today-panvel/images/locationmap.webp",
+      src: "/raheja-jade-city/images/locationmap.webp",
       alt: "Location Map",
     },
     landmarks: [
       {
-        title: "Panvel Railway Station",
-        description: "20 mins",
+        title: "Rajiv Gandhi Bridge Nerul",
+        description: "7 mins",
       },
       {
-        title: "Mumbai–Pune Expressway",
-        description: "18 mins",
+        title: "Sion Panvel Highway",
+        description: "8 mins",
       },
       {
-        title: "Navi Mumbai International Airport",
-        description: "22 mins",
+        title: "Palm Beach Road",
+        description: "11 mins",
       },
     ],
     location: {
@@ -358,18 +348,18 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
   virtualTour: {
     title: "Virtual Tour Request",
     description:
-      "Experience Today Saubhagyam from the comfort of your home",
+      "Experience Wadhwa Wise City from the comfort of your home",
     cta: {
       title: "Request Virtual Tour",
       description: "Schedule at your convenience",
     },
     image: {
-      src: "/today-panvel/images/banner1.webp",
+      src: "/raheja-jade-city/images/banner1.webp",
       alt: "Virtual Tour",
     },
     videoTitle: "Virtual Tour",
     videoDescription:
-      "Experience Today Saubhagyam from the comfort of your home",
+      "Experience Wadhwa Wise City from the comfort of your home",
     features: [
       {
         title: "360° Views",
@@ -396,7 +386,7 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
     title: "Get The Best Quote",
     bookFreeVisit: {
       image: {
-        src: "/today-panvel/images/ride.png",
+        src: "/raheja-jade-city/images/ride.png",
         alt: "Book a Site Visit",
       },
       cta: {
@@ -433,12 +423,12 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
     rera: {
       title: "RERA Information",
       description:
-        "According to the RERA Act 2016 of the Government of India, all projects of the Today Saubhagyam, are listed on the Maharashtra Government's RERA website under registered projects.",
+        "According to the RERA Act 2016 of the Government of India, all projects of the Wadhwa Wise City, are listed on the Maharashtra Government's RERA website under registered projects.",
       details: [
         {
-          title: "Today Saubhagyam",
-          reraNumber: "MahaRERA - P52000053782",
-          qrCode: "/today-panvel/images/qr.webp",
+          title: "Wadhwa Wise City",
+          reraNumber: "MahaRERA - P51700080277",
+          qrCode: "/raheja-jade-city/images/qr.webp",
         },
       ],
     },
@@ -456,17 +446,12 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
       {
         title: "RERA Numbers",
         description:
-          "RERA Project Registration No.:P52000021559",
+          "RERA Project Registration No.:P51700080277",
       },
       {
         title: "Site Address",
         description:
-          "Today Global Saubhagyam: Palaspa, Panvel, Shirdhon, Maharashtra 410221.",
-      },
-      {
-        title: "Contact Us",
-        description:
-          " Corporate Office: Today Global Developers: Office No. 1601-1602, 16th Floor, Kesar Solitaire, Plot No. 5, Palm Beach Road, Sector 19, Sanpada, Navi Mumbai, Maharashtra - 400705.",
+          "K Wadhwa Wise City: Juinagar, Navi Mumbai, Maharashtra - 400705",
       },
     ],
     disclaimer:
@@ -475,20 +460,22 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
 
   seo: {
     title:
-      "Today Saubhagyam 2 & 3 BHK Flats in Panvel| Price, Floor Plans, Amenities | Request Brochure",
+      "Wadhwa Wise City 1, 2, 3 BHK & Jodi in Navi Mumbai | Price, Floor Plans, Amenities | Request Brochure",
     description:
-      "Experience luxury living at Today Saubhagyam,Panvel. 2 & 3 BHK apartments with world-class amenities.",
+      "Experience luxury living at Wadhwa Wise City,Navi Mumbai. 2 & 3 BHK apartments with world-class amenities.",
     keywords: [
       "luxury apartments",
-      "Today Saubhagyam",
+      "Wadhwa Wise City",
       "1 bhk",
       "2 bhk",
+      "3 bhk",
+      "jodi",
     ],
   },
 
   termsAndConditions: {
     seo: {
-      title: "Today Saubhagyam | Terms & Conditions",
+      title: "Wadhwa Wise City | Terms & Conditions",
       description:
         "Please read these terms and conditions carefully before using our website.",
     },
@@ -516,7 +503,7 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
 
   privacyPolicy: {
     seo: {
-      title: "Today Saubhagyam | Privacy Policy",
+      title: "Wadhwa Wise City | Privacy Policy",
       description: "This policy explains how we use your personal information.",
     },
     title: "Privacy Policy",
@@ -537,7 +524,7 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
 
   cookiesPolicy: {
     seo: {
-      title: "Today Saubhagyam | Cookies Policy",
+      title: "Wadhwa Wise City | Cookies Policy",
       description:
         "This policy explains how we use cookies and similar technologies on our website.",
     },
@@ -560,19 +547,19 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
 
   thankYou: {
     seo: {
-      title: "Today Saubhagyam | Thank You",
-      description: "Thank you for your interest in Today Saubhagyam",
+      title: "Wadhwa Wise City | Thank You",
+      description: "Thank you for your interest in Wadhwa Wise City",
     },
   },
 
   formSubmission: {
     crm: {
-      formId: "__vtigerWebForm_173",
-      publicId: "ff7d5955c74844ea07851423a58038fb",
+      formId: "__vtigerWebForm_171",
+      publicId: "b644e6a3ad8a2c9e8cc105ee87e9f839",
       baseUrl: "https://company133638.od2.vtiger.com",
       __vtrftk: "sid:1b3cdc7b40504e947d6886a08517ac877e7e3224,1678943220",
       __vtCurrency: "1",
-      name: "Today panvel",
+      name: "K Raheja Juinagar",
       cfLeadsProjectSite: "Dosti Eden",
       leadSource: "Web",
       emailOptin: "1",
@@ -580,10 +567,10 @@ With upcoming IT corridors in close proximity, Today Saubhagyam Codename Montana
     email: {
       apiEndpoint: "/api/send-email",
       template: {
-        subject: "New Enquiry from Today Saubhagyam",
+        subject: "New Enquiry from Wadhwa Wise City",
       },
     },
   },
 };
 
-export type TodayPanvelSiteConfig = typeof todayPanvelSiteConfig;
+export type WadhwaWiseCitySiteConfig = typeof wadhwaWiseCitySiteConfig;

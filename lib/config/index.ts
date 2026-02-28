@@ -5,6 +5,8 @@ import { rahejaLunarisSiteConfig } from "./raheja-lunaris";
 import { rahejaJadeCitySiteConfig } from "./raheja-jade-city";
 import { todayCloudCitySiteConfig } from "./today-cloud-city";
 import { todayPanvelSiteConfig } from "./today-panvel";
+import { ashfordRegalSiteConfig } from "./ashford-regal";
+import { wadhwaWiseCitySiteConfig } from "./wadhwa-wise-city";
 // import { siteConfig } from "./site";
 
 const configs = {
@@ -13,6 +15,8 @@ const configs = {
   [routes.RahejaJadeCity]: rahejaJadeCitySiteConfig,
   [routes.TodayCloudCity]: todayCloudCitySiteConfig,
   [routes.TodayPanvel]: todayPanvelSiteConfig,
+  [routes.AshfordRegal]: ashfordRegalSiteConfig,
+  [routes.WadhwaWiseCity]: wadhwaWiseCitySiteConfig,
 };
 
 export function getSiteConfig(site?: string) {
