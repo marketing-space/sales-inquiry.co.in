@@ -26,11 +26,7 @@ Majestique’s reputation for delivering value-for-money homes is driven by a st
     phone: "+919619095795",
     whatsapp: "+919619095795",
     address:
-<<<<<<< HEAD:lib/config/raymond-wadala.ts
-      "Mumbai",
-=======
       "Central Kharadi",
->>>>>>> 14c4cc8d38d90aa17e26241334592c19598e0e1e:lib/config/majestic-evolvus.ts
   },
   gtmId: "GTM-NSTZVHJM",
   navbar: {
