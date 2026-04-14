@@ -10,6 +10,7 @@ import { wadhwaWiseCitySiteConfig } from "./wadhwa-wise-city";
 import { neelkanthVerratonSiteConfig } from "./neelkanth-verraton";
 import { arihantAspireSiteConfig } from "./arihant-aspire";
 import { raymondSionSiteConfig } from "./raymond-sion";
+import { majesticEvolvusSiteConfig } from "./majestic-evolvus";
 // import { siteConfig } from "./site";
 
 const configs = {
@@ -23,6 +24,7 @@ const configs = {
   [routes.NeelkanthVerraton]: neelkanthVerratonSiteConfig,
   [routes.ArihantAspire]: arihantAspireSiteConfig,
   [routes.RaymondSion]: raymondSionSiteConfig,
+  [routes.MajesticEvolvus]: majesticEvolvusSiteConfig,
 };
 
 export function getSiteConfig(site?: string) {
