@@ -11,6 +11,7 @@ import { neelkanthVerratonSiteConfig } from "./neelkanth-verraton";
 import { arihantAspireSiteConfig } from "./arihant-aspire";
 import { raymondSionSiteConfig } from "./raymond-sion";
 import { majesticEvolvusSiteConfig } from "./majestic-evolvus";
+import { jaydeepOneSiteConfig } from "./jaydeep-one";
 // import { siteConfig } from "./site";
 
 const configs = {
@@ -25,6 +26,7 @@ const configs = {
   [routes.ArihantAspire]: arihantAspireSiteConfig,
   [routes.RaymondSion]: raymondSionSiteConfig,
   [routes.MajesticEvolvus]: majesticEvolvusSiteConfig,
+  [routes.JaydeepOne]: jaydeepOneSiteConfig,
 };
 
 export function getSiteConfig(site?: string) {

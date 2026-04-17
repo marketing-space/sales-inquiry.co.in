@@ -9,5 +9,6 @@ export const routes = {
   NeelkanthVerraton: "Neelkanth/Verraton",
   ArihantAspire: "Arihant/Aspire",
   RaymondSion: "Raymond/Sion",
-  MajesticEvolvus: "Majestic/Evolvus"
+  MajesticEvolvus: "Majestic/Evolvus",
+  JaydeepOne: "Jaydeep/One"
 };
