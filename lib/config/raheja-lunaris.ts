@@ -23,7 +23,8 @@ export const rahejaLunarisSiteConfig = {
     address:
       "Navi Mumbai",
   },
-  gtmId: "GTM-58LR3K3B",
+  gtmId: "GTM-WXHGV54V",
+  
   navbar: {
     navItems: [
       {

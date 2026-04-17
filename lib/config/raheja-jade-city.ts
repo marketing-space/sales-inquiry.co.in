@@ -23,7 +23,7 @@ export const rahejaJadeCitySiteConfig = {
     address:
       "Navi Mumbai",
   },
-  gtmId: "GTM-WXHGV54V",
+  gtmId: "GTM-58LR3K3B",
   navbar: {
     navItems: [
       {
