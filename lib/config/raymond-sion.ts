@@ -21,7 +21,7 @@ export const raymondSionSiteConfig = {
     phone: "+919619095795",
     whatsapp: "+919619095795",
     address:
-      "Panvel",
+      "Sion",
   },
   gtmId: "GTM-WVDGLMM3",
   navbar: {
