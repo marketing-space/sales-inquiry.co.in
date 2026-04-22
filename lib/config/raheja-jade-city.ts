@@ -131,7 +131,7 @@ Experience a lifestyle defined by comfort, elegance, and holistic living at K Ra
       ],
       price: {
         title: "Luxurious 1, 2, 3 BHK & Jodi Starts from",
-        value: "1.35 Cr",
+        value: "1.85 Cr",
         suffix: "Onwards",
       },
     },
