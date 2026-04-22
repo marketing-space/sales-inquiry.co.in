@@ -143,12 +143,6 @@ Experience a lifestyle defined by comfort, elegance, and holistic living at K Ra
       "Choose from our range of luxurious 2 & 3 BHK residences, each designed to offer the perfect blend of comfort and sophistication",
     prices: [
       {
-        type: "1 BHK",
-        carpetArea: "490 Sq.ft. – 500 Sq.ft.",
-        price: "98 Lacs*",
-        suffix: "Onwards",
-      },
-      {
         type: "1+1 BHK",
         carpetArea: "980 Sq.ft. – 1000 Sq.ft.",
         price: "2.75 Cr – 2.85 Cr",
@@ -156,20 +150,26 @@ Experience a lifestyle defined by comfort, elegance, and holistic living at K Ra
       },
       {
         type: "2 BHK",
-        carpetArea: "700 Sq.ft. – 710 Sq.ft.",
-        price: "1.99 Cr",
+        carpetArea: "663 Sq.ft.",
+        price: "1.85 Cr - 1.91 Cr",
         suffix: "Onwards",
       },
       {
-        type: "2+2 BHK",
-        carpetArea: "1400 Sq.ft. - 1420 Sq.ft.",
-        price: "3.90 Cr – 4.15 Cr",
+        type: "2 BHK",
+        carpetArea: "707 Sq.ft.",
+        price: "2.07 Cr - 2.32 Cr",
+        suffix: "Onwards",
+      },
+      {
+        type: "2.5 BHK",
+        carpetArea: "988 Sq.ft.",
+        price: "2.82 Cr - 3.14 Cr",
         suffix: "Onwards",
       },
       {
         type: "3 BHK",
-        carpetArea: "1020 Sq.ft. - 1030 Sq.ft.",
-        price: "3.20 Cr",
+        carpetArea: "1027 Sq.ft.",
+        price: "3.48 Cr - 3.61 Cr",
         suffix: "Onwards",
       },
     ],

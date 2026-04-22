@@ -126,7 +126,7 @@ At Raheja Lunaris, life extends beyond the four walls of your home. A host of cu
       ],
       price: {
         title: "Luxurious 1,2,3 & 4 BHKs & commercial spaces",
-        value: "98 Lacs*",
+        value: "1.12 Cr*",
         suffix: "Onwards",
       },
     },
@@ -137,12 +137,6 @@ At Raheja Lunaris, life extends beyond the four walls of your home. A host of cu
     description:
       "Choose from our range of luxurious 2 & 3 BHK residences, each designed to offer the perfect blend of comfort and sophistication",
     prices: [
-      {
-        type: "1 BHK",
-        carpetArea: "438 Sq.ft.",
-        price: "98 Lacs*",
-        suffix: "Onwards",
-      },
       {
         type: "2 BHK Compact",
         carpetArea: "452 Sq.ft.",
@@ -158,7 +152,7 @@ At Raheja Lunaris, life extends beyond the four walls of your home. A host of cu
       {
         type: "2 BHK Luxe",
         carpetArea: "715 Sq.ft.",
-        price: "1.88 Cr*",
+        price: "1.85 Cr*",
         suffix: "Onwards",
       },
       {
