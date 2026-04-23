@@ -14,7 +14,7 @@ import { routes } from "./routes";
 const route = routes.RahejaJadeCity;
 
 export const rahejaJadeCitySiteConfig = {
-  name: "Raheja Jade City",
+  name: "K-Raheja Jade City",
   about:
     "Raheja Universal introduces a meticulously planned residential development in Juinagar, Navi Mumbai, featuring spacious 1, 2, 2.5, 3, and 4 BHK residences along with thoughtfully integrated commercial spaces. Spread across an expansive 60+ acre land parcel, the project offers a township-style living experience that seamlessly combines modern urban comforts with abundant open spaces.Each home is intelligently designed to ensure optimal comfort, functionality, and natural ventilation, making it an ideal choice for families and working professionals seeking a well-balanced lifestyle. The inclusion of on-site commercial spaces enhances everyday convenience, creating a self-sustained live-work-play environment within the community.Strategically located, the development enjoys excellent connectivity to major business districts, reputed educational institutions, healthcare centers, and entertainment hubs across Navi Mumbai. Complemented by premium lifestyle amenities, landscaped greens, and well-planned infrastructure, this project promises not just a residence, but a vibrant and enriching community living experience.",
   contact: {
