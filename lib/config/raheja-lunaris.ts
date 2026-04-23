@@ -125,7 +125,7 @@ At Raheja Lunaris, life extends beyond the four walls of your home. A host of cu
         // },
       ],
       price: {
-        title: "Luxurious 1,2,3 & 4 BHKs & commercial spaces",
+        title: "Luxurious 2,3 & 4 BHKs & commercial spaces",
         value: "1.12 Cr*",
         suffix: "Onwards",
       },
