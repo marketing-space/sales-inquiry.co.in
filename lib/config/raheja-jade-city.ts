@@ -156,7 +156,7 @@ Experience a lifestyle defined by comfort, elegance, and holistic living at K Ra
       },
       {
         type: "2 BHK",
-        carpetArea: "707 Sq.ft.",
+        carpetArea: "707 Sq.ft",
         price: "2.07 Cr - 2.32 Cr",
         suffix: "Onwards",
       },
