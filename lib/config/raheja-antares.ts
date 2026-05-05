@@ -21,9 +21,9 @@ export const rahejaAntaresSiteConfig = {
     phone: "+919619095795",
     whatsapp: "+919619095795",
     address:
-      "Navi Mumbai",
+      "Kanjurmarg (w)",
   },
-  gtmId: "GTM-WXHGV54V",
+  gtmId: "GTM-KD8D6LWN",
 
   navbar: {
     navItems: [
@@ -71,7 +71,7 @@ export const rahejaAntaresSiteConfig = {
   },
 
   branding: {
-    logo: "/raheja-antares/images/logo.jpg",
+    logo: "/raheja-antares/images/logo.jpeg",
     favicon: "/icon.jpg",
     ogImage: "/og-image.jpg",
   },
