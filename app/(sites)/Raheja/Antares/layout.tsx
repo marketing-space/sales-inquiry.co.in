@@ -3,7 +3,7 @@ import { routes } from "@/lib/config/routes";
 import { Metadata } from "next";
 import "./globals.css";
 
-const route = routes.RahejaLunaris;
+const route = routes.RahejaAntares;
 
 export const metadata: Metadata = {
   title: getSiteConfig(route).seo.title,
