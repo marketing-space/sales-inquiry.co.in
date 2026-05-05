@@ -12,12 +12,14 @@ import { arihantAspireSiteConfig } from "./arihant-aspire";
 import { raymondSionSiteConfig } from "./raymond-sion";
 import { majesticEvolvusSiteConfig } from "./majestic-evolvus";
 import { jaydeepOneSiteConfig } from "./jaydeep-one";
+import { rahejaAntaresSiteConfig } from "./raheja-antares";
 // import { siteConfig } from "./site";
 
 const configs = {
   // [routes.default]: lodhaAmaraSiteConfig,
   [routes.RahejaLunaris]: rahejaLunarisSiteConfig,
   [routes.RahejaJadeCity]: rahejaJadeCitySiteConfig,
+  [routes.RahejaAntares]: rahejaAntaresSiteConfig,
   [routes.TodayCloudCity]: todayCloudCitySiteConfig,
   [routes.TodayPanvel]: todayPanvelSiteConfig,
   [routes.AshfordRegal]: ashfordRegalSiteConfig,

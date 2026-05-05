@@ -2,6 +2,7 @@ export const routes = {
   default: "/",
   RahejaLunaris: "Raheja/Lunaris",
   RahejaJadeCity: "Raheja/Jade-City",
+  RahejaAntares: "Raheja/Antares",
   TodayCloudCity: "Today/Cloud-City",
   TodayPanvel: "Today/Panvel",
   AshfordRegal: "Ashford/Regal",
